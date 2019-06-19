@@ -4,7 +4,7 @@ import PyPDF2
 counter = 0
 
 # use for debugging
-# db_user_file = '/Users/noahcg/Desktop/northwestern/summerInternship2019/Mercury/autodata.pdf'
+# user_file = '/Users/noahcg/Desktop/northwestern/summerInternship2019/Mercury/autodata.pdf'
 
 os.system('open .')
 # for some reason this keeps adding a space at the end. Delete it.
@@ -22,11 +22,14 @@ if pdfReader.numPages > 1:
 else: 
     print('This document has %s page' % pdfReader.numPages)
 
+num_pages = pdfReader.numPages
 
-def extract(a_count, a_file):
+
+def extract(a_count, a_file, num_pages):
     # debugging variables
+
     """
-    db_user_choice = 'b'
+    db_user_choice = 'a'
     db_target_page = '2'
     db_boo_save = 'yes'
     db_do_it_again = 'yes'
@@ -39,14 +42,14 @@ def extract(a_count, a_file):
                         '\nChoice: ')
 
     if user_choice == 'a':
-        print(a_file.extractText())
+        extract_whole(-1, a_file, num_pages)
 
     elif user_choice == 'b':
         target_page = input('Input the page number you''d like to extract the text from: ')
         target_page = int(target_page)
 
         # a page object
-        page_obj = pdfReader.getPage(target_page)
+        page_obj = a_file.getPage(target_page)
 
         # extracts the text from the page
         # this will print the text that I can save into a string
@@ -68,7 +71,7 @@ def extract(a_count, a_file):
             a_count += 1
             do_it_again = input('Do you want to extract another page? ')
             if do_it_again == 'yes' or 'Yes':
-                extract(a_count, pdfReader)
+                extract(a_count, a_file)
             elif do_it_again == 'no' or 'No':
                 exit()
             else:
@@ -86,4 +89,45 @@ def extract(a_count, a_file):
         extract()
 
 
-extract(counter, pdfReader)
+def extract_whole(a_count, a_file, total_pages):
+    a_count += 1
+
+    if a_count == 0:
+        target_page = a_count
+        page_obj = a_file.getPage(target_page)
+
+        # extracts the text
+        extracted_text = page_obj.extractText()
+
+        # creates a new file
+        new_file = open("complete_text.txt", "w+")
+
+        # writes the text to the file, hopefully with a buffer
+        new_file.write(extracted_text)
+        new_file.write("\n*************************************************"
+                       "*************************************************\n")
+        extract_whole(a_count, a_file, total_pages)
+
+    elif a_count < total_pages:
+        target_page = a_count
+        page_obj = a_file.getPage(target_page)
+
+        # extracts the text
+        extracted_text = page_obj.extractText()
+
+        # reopens the previous file
+        old_file = open("complete_text.txt", "w")
+
+        # writes the new text under the old text, hopefully with a buffer
+        old_file.write(extracted_text)
+        old_file.write("\n*************************************************"
+                       "*************************************************\n")
+        extract_whole(a_count, a_file, total_pages)
+
+    elif a_count == total_pages:
+        print("The program has finished iterating through the PDF,\n"
+              "check your directory to see if everything's there")
+        exit()
+
+
+extract(counter, pdfReader, num_pages)
