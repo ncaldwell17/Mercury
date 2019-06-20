@@ -1,0 +1,1228 @@
+Hindawi
+Advances in Hematology
+Volume 2019, Article ID 9614205, 8 pages
+https://doi.org/10.1155/2019/9614205
+
+Research Article
+Factors Associated with Anemia among People Living with
+HIV/AIDS Taking ART in Ethiopia
+
+Ketema Bizuwork Gebremedhin
+
+and Tadesse Bedada Haye
+
+School of Nursing and Midwifery, College of Health Sciences, Addis Ababa University, Addis Ababa, Ethiopia
+
+Correspondence should be addressed to Ketema Bizuwork Gebremedhin; ketema.bizuwork@aau.edu.et
+
+Received 30 August 2018; Revised 14 January 2019; Accepted 5 February 2019; Published 3 March 2019
+
+Academic Editor: Aldo Roccaro
+
+Copyright © 2019 Ketema Bizuwork Gebremedhin and Tadesse Bedada Haye. This is an open access article distributed under the
+Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided
+the original work is properly cited.
+
+Background. Globally, anemia, among people living with HIV/AIDS, is a major public health problem. It has a significant effect
+on the progression of HIV/AIDS to advanced stages and there are a number of factors that often affect anemia. However, there is
+little insight regarding factors affecting anemia among HIV/AIDS patients in developing countries, including Ethiopia. Objective.
+This study aimed at investigating factors affecting anemia among people living with HIV/AIDS taking ART drug at Tikur Anbessa
+Specialized Hospital, Addis Ababa, Ethiopia. Methods. A hospital based cross-sectional study design was used to assess factors
+affecting anemia among people living with HIV/AIDS. Structured checklist was used to gather information from charts of patients
+selected by simple random sampling method. We analyzed the data to identify factors associated with anemia among people with
+HIV/AIDS using logistic regression models. Results. A total of 301 selected charts were reviewed. The median age was 38 ± 10.38.
+The majority (62.5%) of the patients were taking ZDV-containing ART drug (ZDV/3TC/NVP). The overall anemia prevalence was
+34.6%, while about 5%, 15.6%, and 14% of the patients had severe, moderate, and mild prevalence of anemia, respectively. Factors
+that were found to affect anemia among these patients include gender (OR = 2.26 [95% CI: 1.22, 4.16]), occupation (OR: 0.57 [95%CI:
+0.35, 0.92]), WBC count (OR = 2.30 [95% CI: 1.29, 4.09]), platelet count (OR = 2.89 [95% CI: 0.99, 8.41]), nutritional status (OR
+= 2.05 [95% CI: 0.69, 6.02]), and WHO clinical stage of HIV/AIDS (OR = 3.69 [95% CI: 1.86, 7.31]). Conclusions. About one in
+three patients was found to be anemic. Intervention aimed at diagnosing and treating anemia among people living with HIV/AIDS
+should be considered.
+
+1. Introduction
+
+Anemia is a major public health problem, especially in
+developing countries [1–3]. It has significant consequences on
+health and social and economic development of individuals
+[4]. The most common causes of anemia are deficiency of
+mineral, iron, and vitamin B12 [5], infestation of hookworm,
+malaria infection, vitamin A deficiency, genetic defects, and
+chronic infections like TB and HIV [6].
+
+Undeniably, anemia is the most important clinical prob-
+lem seen in people living with HIV/AIDS [7]; its severity
+increases as CD4 count declines [8] and with progression
+of the disease HIV/AIDS to advanced stage [9]. In addition,
+the higher anemia level by itself is also a good opportunity
+for progression of HIV/AIDS irrespective of CD4 counts
+level and viral load [10]. Moreover, anemia influences the
+
+natural history of the disease HIV/AIDS [11], resulting in the
+decrease of the survival rate. A number of previous studies
+from developing countries have demonstrated this evidence
+[12, 13].
+
+HIV leads to declining the production of cytokine, which
+ultimately influences hematopoiesis process of the cells,
+specifically erythropoietin concentration [11]. This, in turn,
+results in ineffective/decreased production of red blood cells
+and/or increases their destruction [14]. The most common
+factors related to the reduced production of red blood
+cells are acquisition of neoplasm to bone marrow, bone
+marrow infection due to the HIV itself, administration of
+myelodepressive chemotherapies like ZDV, and autoantibody
+proteins produced due to chemotherapies [14, 15]. However,
+a number of studies revealed that use of HAART reduces
+anemia among people living with HIV/AIDS [16, 17].
+
+2
+
+Type of blood cell
+WBC
+
+Platelet
+
+CD4
+
+BMI
+
+Table 1: Cut-off point for blood cells considered in the study.
+
+Cut-off point
+
+≥ 4.5 × 103 cells/𝜇L
+< 4.5 × 103 cells/𝜇L
+≥ 150 x 103 cells/𝜇L
+< 150 × 103 cells/𝜇L
+
+≥ 200 cells/𝜇L
+< 200 cells/𝜇L
+< 18.5 kg/m2
+
+18.5 – 24.9 kg/m2
+25 – 29.9kg/m2
+
+≥ 30kg/m2
+
+Advances in Hematology
+
+Remark
+
+Below normal
+
+Below normal
+
+Commenced for ART
+
+Underweight
+
+Normal
+
+Overweight
+
+Obese
+
+Note. CD4 = cluster of differentiation 4, WBC = white blood cells, BMI = body mass index, 𝜇L = microliter.
+
+Previous studies conducted in Ethiopia showed that the
+prevalence of anemia among people living with HIV/AIDS
+taking ART ranged from 20.9% to 70.1% [14, 18–20]. Factors
+that are often associated with anemia among people living
+with HIV/AIDS include ART regimen, presence of oppor-
+tunistic infections (OIs), residence, gender, marital status,
+monthly income, educational status, duration of ART taken,
+history of antituberculosis (TB) drug treatment, advanced
+stage of the HIV disease, white blood cell (WBC) count <
+4,000 cells/𝜇L, CD4+T-lymphocyte count < 200 cells/𝜇L, and
+platelets count < 200,000 cells/𝜇L [21–23]. However, there is
+limited insight regarding the prevalence and factors associ-
+ated with anemia level among people living with HIV/AIDS
+taking ART drug in Addis Ababa, Ethiopia. The purpose of
+this study was to estimate the prevalence and examine factors
+associated with anemia among people living with HIV/AIDS
+taking ART drug at ART clinic of Tikur Anbessa Specialized
+Hospital in Addis Ababa, Ethiopia.
+
+2. Methods
+2.1. Study Design and Settings. A cross-sectional study design
+was conducted from April 15 to May 15, 2018, at Tikur
+Anbessa Specialized Hospital in Addis Ababa, Ethiopia. The
+hospital is among referral and teaching hospitals of the
+country located in Addis Ababa. The hospital has HIV/AIDS
+care-providing center with an average daily client flow of
+50–60.
+
+2.2. Sample Size Determination, Sampling Procedure, and
+Study Subjects. Sample size was estimated using a single pop-
+ulation proportion formula and calculated with the following
+assumptions: 95% confidence level, 5% margin of error, and
+23% expected prevalence of anemia among people living with
+HIV/AIDS [20]. Given these assumptions and considering
+a nonresponse rate of 10%, the required sample size was
+found to be 301. Simple random sampling method was used
+to select charts to be reviewed among charts of clients who
+have been followed up during the data collection period on
+daily basis. Charts of client, with incomplete information,
+age under 18, pregnant women, postpartum period, and
+ART inexperienced (those who took ART drug for less than
+
+three months), were excluded from the study. The most
+recent data was taken as information recorded for the study
+from laboratory investigation sheets and other information
+sheets.
+
+2.3. Study Variables
+2.3.1. Anemia Level. The anemia level was determined based
+on WHO report 2001 and a study conducted on pathogenesis
+and clinical implications of HIV-related anemia in 2013;
+the anemia level for nonpregnant women was defined as
+hemoglobin < 12.0 g/dl: [severe < 7.0 g/dl, moderate = 7–9.9
+g/dl, and mild = 10–11.9 g/dl], whereas, for men, it was defined
+as hemoglobin <13.0: [severe < 9.0 g/dl, moderate = 9–11.9
+g/dl, and mild = 12.0–12.9 g/dl] [24, 25].
+
+2.3.2. Sociodemographic and Clinical Characteristics of the
+Patients. The sociodemographic characteristics identified
+from the patients’ chart include age, gender, residence,
+religion, ethnic group, marital status, educational status,
+occupation, and monthly income. Moreover, the clinical and
+biochemical test characteristics of patients gathered from
+charts include CD4 count (cells/𝜇L), WBC count (cells/𝜇L),
+platelet count (cells/𝜇L), nutritional status (BMI) (kg/m2),
+WHO clinical stage of HIV/AIDS, ART regimen, and anti-TB
+treatment history. The CD4 T-lymphocyte was determined
+based on WHO (World Health Organization) recommenda-
+tion of 2007 to commence ART for HIV positive peoples [26].
+The WBC and platelet ranges were determined based on the
+guide of Bacovsky J, blood count interpretation for health
+personnel [27]. In order to assess nutritional status, patients’
+body mass index was calculated as a proportion of weight
+in kg divided by height squared. Then, they were indexed
+based on body mass index level considered by healthcare
+practitioners [28]. The clinical stage of HIV/AIDS was used
+based on the WHO clinical staging classification criteria [26].
+The ART regimen was determined based on whether the
+study participants were taking ZDV-containing ART drug or
+not. Similarly, treatment history of the client was assessed for
+being treated for TB or not. Table 1 summarizes the cut-off
+points used for blood cell levels.
+
+Advances in Hematology
+
+3
+
+2.4. Data Collection Instrument, Data Collection Process-
+ing, and Quality Control. The questionnaire (checklist) was
+developed after reviewing literatures and WHO guidelines.
+The checklist comprised sociodemographic and clinical char-
+acteristics: age, gender, residence, religion, ethnic group, mar-
+ital status, educational status, occupation, monthly income,
+and clinical characteristics: CD4 T-lymphocyte, hemoglobin,
+WBC, platelet count level, BMI level, WHO clinical stage
+of HIV/AIDS, ART regimen, and history to treatment for
+TB. Before the actual data collection date, the question-
+naire was pretested on 5% of charts of the study popula-
+tion. Then, necessary modification was done based on its
+analysis. The study questionnaire was prepared in English.
+A graduate class nurse student collected the data. Princi-
+pal orientation was given for data collector prior to the
+data collection date on how to collect the data and make
+them familiar with the data collection questionnaire. The
+completeness of each questionnaire was checked on daily
+basis.
+
+2.5. Data Analysis. Data was entered using EpiData version
+3.1 statistical package software. After thorough cleaning, the
+data was exported to SPSS version 22 statistical package
+software for further analysis. Descriptive statistics such as
+mean, standard deviations (SD), frequency, and percentage
+were used to describe the variables of the study. In order to
+describe factors associated with anemia among people living
+with HIV/AIDS, unadjusted and adjusted odds ratios with
+their 95% CI were calculated using logistic regression models.
+
+2.6. Ethical Consideration. The ethical clearance letter was
+obtained from ethical clearance committee of Addis Ababa
+University College of Health Sciences. After we offered the
+letter to the head department of ART clinic, the purpose of
+the study was clearly stated to the healthcare professionals
+working in the ART clinic of the Hospital.
+
+3. Results
+A total of 301 charts were reviewed. The median age was
+38±10.38. The majority (62.1%) of the study participants were
+female. About half (50.5%) of the study participants were
+unemployed. More than three-fourths (90%) of the study par-
+ticipants were from urban residential area. About half (49.8%)
+of the study participants were married. Table 2 summarizes
+the details of the characteristics of study participants.
+
+3.1. The Clinical and Biochemical Tests Characteristics. The
+medians (±SD) of CD4, WBC, and platelet counts were
+332 ± 195.67, 5490 ± 4015, and 287000 ± 97499.53, respec-
+tively. The majority (77.1%, 68.4%, and 93.4%) of the study
+participant’s CD4, WBC, and platelet count were ≥ 200, ≥
+4500, and ≥ 150,000 cells/𝜇L, respectively. Regarding the
+study participant’s nutritional status, 61.5%, 20.6%, 12%, and
+6% of the study participants were found to be of normal
+weight, overweight, underweight, and obese in their nutri-
+tional status, respectively. Further, almost three-fourths of the
+
+Frequency of anemic vs not anemic study participants with 
+
+selected variables
+
+ 
+l
+e
+v
+e
+l
+ 
+y
+c
+n
+e
+u
+q
+e
+r
+F
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+128
+
+91
+
+60
+
+44
+
+40
+
+29
+
+28
+
+51
+
+40
+
+37
+
+Anemic 
+
+Not anemic 
+
+WBC: < 4500 cells/L
+CD4: < 200cells/l
+ART regimen: ZDV 
+containing 
+
+Nutritional status: 
+Underweight  
+WHO Clinical HIV/AIDS 
+stage IV
+
+Figure 1: Frequency of anemic versus not anemic study participants
+with selected variables.
+
+study participants were taking ZDV-containing ART drug
+(ZDV/3TC/NVP) (Table 3).
+
+3.2. Prevalence of Anemia. The prevalence of anemia was
+34.6%. Among the overall anemic study participants, 5%,
+15.6%, and 14% had severe, moderate, and mild level of
+anemia, respectively. A significant number (48) of study
+participants were from the age group of 30-39. A momentous
+number (75 and 60) of anemic study participants had CD4
+T-lymphocyte and WBC count ≥ 200 and ≥ 4500 cells/𝜇L,
+respectively. A noteworthy number (40) of anemic study
+participants were found in stage IV of WHO clinical stage
+of HIV/AIDS. Regarding ART regimen and anti-TB drug
+exposure history, a considerable number (60 and 36) of
+anemic study participants were taking ZDV-containing ART
+drug (ZDV/3TC/NVP) and had history of anti-TB drug
+treatment exposure, respectively (Table 3). Among a total of
+95 study participants whose WBC count level was < 4500
+cells/𝜇L, 44 were anemic, while the remaining 51 were not
+anemic. Moreover, among a total of 77 study participants who
+were found in stage IV of WHO clinical staging of HIV/AIDS,
+40 were anemic, while the remaining 37 were not. Further,
+among a total of 188 study participants who were taking
+ZDV-containing ART drug (ZDV/3TC/NVP), a considerable
+number (60) were anemic, while the remaining 128 were not
+(Figure 1).
+
+3.3. Factors Associated with Anemia. The unadjusted logistic
+regression analysis revealed that sociodemographic charac-
+teristics, gender (𝜒2 = 6.89, p < 0.010) and occupation (𝜒2
+
+4
+
+Advances in Hematology
+
+Table 2: Sociodemographic characteristics and their association with anemia under unadjusted logistic regression analysis (n = 301).
+
+Sociodemographic variables
+
+Frequency (%)
+
+Age in complete years (median age = 38 ± 10.38)
+
+Anemia status
+
+Anemic
+
+frequency (%)
+
+104(34.6)
+
+Not anemic
+frequency (%)
+
+197(65.4)
+
+18 - 29
+30 - 39
+≥ 40
+Gender
+
+Female
+Male
+
+Residence
+Urban
+Rural
+Religion
+
+Christian
+Muslim
+
+Ethnic group
+
+Amhara
+Oromo
+Other
+
+Marital status
+
+Married
+Unmarried
+
+Educational status
+
+Not read and write
+Read and write
+Primary school
+Secondary school
+College and above
+
+Occupation
+
+Unemployed
+Employed
+
+53(17.6)
+119(39.5)
+129(42.9)
+
+187(62.1)
+114(37.9)
+
+271(90)
+30(10)
+
+261(86.7)
+40(13.3)
+
+114(37.9)
+135(44.9)
+52(17.3)
+
+150(49.8)
+151(50.2)
+
+52(17.3)
+63(20.9)
+87(28.9)
+60(19.9)
+39(13.0)
+
+152(50.5)
+149(49.5)
+
+20
+48
+36
+
+75
+29
+
+92
+12
+
+88
+16
+
+40
+45
+19
+
+48
+56
+
+19
+23
+30
+23
+9
+
+43
+61
+
+33
+71
+93
+
+112
+85
+
+179
+18
+
+173
+24
+
+74
+90
+33
+
+102
+95
+
+33
+40
+57
+37
+30
+
+109
+88
+
+OR (95%CI)
+
+Χ2
+
+P value
+
+4.56
+
+0.11
+
+6.89
+
+0.01∗
+
+0.43
+
+0.51
+
+0.59
+
+0.44
+
+0.19
+
+0.91
+
+0.86
+
+0.35
+
+3.00
+
+0.60
+
+5.34
+
+0.02∗
+
+0.64[0.33, 1.26]
+0.57[0.34, 0.97]
+
+∗∗
+
+1.96[1.18, 3.28]
+
+∗∗
+
+1.30[0.60, 2.81]
+
+∗∗
+
+1.31[0.66, 2.59]
+
+∗∗
+
+1.07[0.54, 2.11]
+1.15[0.59, 2.25]
+
+∗∗
+
+1.25[0.78, 2.02]
+
+0.52[0.21, 1.33]
+0.52[0.21, 1.29]
+0.57[0.24, 1.36]
+0.48[0.20, 1.20]
+
+∗∗
+
+0.57[0.35, 0.92]
+
+∗∗
+
+Note. Religion: Christian includes orthodox, protestant, and catholic. Ethnic group: other includes Gurage and Tigre. Marital status: Unmarried includes living
+together, widowed, single, and divorced. Occupation:unemployed includes merchant, housewife, student, farmer, and daily laborer. Employed includes private
+and governmental employees.
+Statistical significance at 95% CI, P < 0.05; ∗∗ reference; ∗ statistically significant.
+
+= 5.34, p < 0.022), were significantly associated with anemia
+(Table 2). Regarding clinical characteristics, WBC count (𝜒2
+= 8.33, p < 004), platelet count (𝜒2 = 5.78, p < 0.18), nutritional
+status (𝜒2 = 23.45, p < 0.001), and WHO clinical HIV/AIDS
+stage (𝜒2 = 16.72, p < 0.001,) were significantly associated with
+anemia (Table 3). The adjusted logistic regression analysis
+showed that gender (OR = 2.26 [95% CI = 1.22, 4.16], P <
+0.009), WBC count (OR = 2.30 [95% CI = 1.29, 4.09], p <
+0.005), platelet count (OR = 2.89 [95% CI = 0.99, 8.41], p <
+0.051), nutritional status (OR = 2.05 [95% CI = 0.69, 6.02],
+p < 0.001), and WHO clinical HIV stage (OR = 3.69 [95%
+CI = 1.86, 7.31], p < 0.003) were among the different factors
+
+associated with anemia among people living with HIV/AIDS
+(Table 4).
+
+4. Discussion
+This study assessed the prevalence and factors associated with
+anemia among people living with HIV/AIDS taking ART for
+at least three months in Tikur Anbessa Specialized Hospital
+in Addis Ababa, Ethiopia. It is clear that anemia is a common
+medical problem affecting people living with HIV/AIDS by
+complicating the pathogenesis of the disease [9, 19, 25]. Using
+anemia demarcation level < 13 g/dl [24, 25], our study found
+
+Advances in Hematology
+
+5
+
+Table 3: Clinical characteristics and their association with anemia under unadjusted logistic regression analysis (n = 301).
+
+Background characteristics
+
+Frequency (%)
+
+Anemia status
+
+OR (95%CI)
+
+Χ2
+
+P value
+
+Anemic
+
+frequency (%)
+
+104(34.6)
+
+Not anemic
+frequency (%)
+
+197(65.4)
+
+CD4 count level (cells/𝜇L) (median CD4 count = 332 ± 195.67)
+75
+29
+
+232(77.1)
+69(22.9)
+
+≥ 200
+<200
+
+WBC count level (cells/𝜇L) (median WBC count = 5490 ± 4013.00)
+
+≥ 4500
+<4500
+
+206(68.4)
+95(31.6)
+
+60
+44
+
+Platelet count level (cells/𝜇L) (median platelet count = 287000 ± 97499.53)
+
+≥ 150, 000
+<150,000
+BMI (kg/m2)
+
+Underweight
+Normal
+Overweight
+Obese
+
+WHO Clinical HIV/AIDS stage
+
+Stage I
+Stage II
+Stage III
+Stage IV
+
+ART regimen
+
+ZDV containing
+Not ZDV containing
+
+Anti-Tb treatment history
+
+Yes
+No
+
+281(93.4)
+20(6.6)
+
+36(12)
+185(61.5)
+62(20.6)
+18(6)
+
+119(39.5)
+61(20.3)
+44(14.6)
+77(25.6)
+
+188(62.5)
+113(37.5)
+
+104(34.6)
+197(65.4)
+
+92
+12
+
+24
+60
+12
+8
+
+28
+20
+16
+40
+
+60
+44
+
+36
+65
+
+157
+40
+
+146
+51
+
+189
+8
+
+125
+12
+50
+10
+
+91
+41
+28
+37
+
+128
+69
+
+65
+132
+
+2.17
+
+0.14
+
+8.33
+
+0.00∗
+
+5.78
+
+0.01∗
+
+23.45
+
+0.00∗
+
+16.72
+
+0.00∗
+
+1.53
+
+0.22
+
+0.61
+
+0.44
+
+1.52[0.87, 2.64]
+
+∗∗
+
+2.10[1.27, 3.47]
+
+∗∗
+
+3.08[1.22, 7.80]
+
+1.67[0.63, 4.44]
+0.40[0.13, 1.28]
+3.33[1.08, 10.25]
+
+∗∗
+
+3.51[1.90, 6.50]
+2.22[1.10, 4.45]
+1.89[0.89, 4.44]
+
+∗∗
+
+1.36[0.84, 2.21]
+
+∗∗
+
+0.82[0.50, 1.35]
+
+∗∗
+
+Note: CD4 = cluster of differentiation 4, WBC = white blood cells, BMI = body mass index, ZDV = zidovudine, 𝜇L = microliter.
+∗∗ reference; ∗ statistically significant.
+
+Table 4: Logistic regression analysis showing the association between patient characteristics and anemia among people living with HIV/AIDS
+(n = 301).
+
+Variables
+Gender
+WBC count
+Platelet count
+Nutritional stats
+WHO HIV/AIDS clinical staging
+Note. HIV/AIDS = Human Immune Deficiency Virus/Acquired Immune Deficiency Syndrome, SE = standard error, WBC = white blood cells, OR = odds
+ratio, CI = confidence interval.
+
+OR (95%CI)
+2.26[1.22, 4.16]
+2.30[1.29, 4.09]
+2.89[0.99, 8.41]
+2.05[0.69, 6.02]
+3.69[1.86, 7.31]
+
+P value
+0.01
+0.01
+0.05
+0.00
+0.00
+
+SE
+0.31
+0.29
+0.55
+0.55
+0.35
+
+𝛽
+0.81
+0.83
+1.06
+0.72
+1.31
+
+6.80
+7.99
+3.80
+17.92
+14.31
+
+Wald 𝜒2
+
+that the prevalence of anemia was 34.6%. This figure is lower
+when compared to previous studies completed in Ethiopia
+(the prevalence ranged from 43% to 70.1%) [9, 14, 22], Iran,
+Nigeria, China, and Nepal, ranging between 51.5 and 71%
+[13, 29–33]. However, the prevalence of anemia reported in
+this study was higher than a number of studies conducted in
+different parts of Ethiopia ranging between 20.8 and 23.1%
+[18, 20, 21, 34–37] and South Africa (25.8%) [10]. Moreover,
+
+this study revealed that 5%, 15.6%, and 14% of the study
+participants had severe, moderate, and mild level of anemia,
+respectively. This finding is in line for the severe level of
+anemia while it is lower for moderate and mild level of anemia
+in another study from Ethiopia [36]. The possible reason
+for the difference observed in prevalence of anemia may be
+due to the difference in socioeconomic level, difference in
+study participants’ WHO clinical HIV/AIDS staging level,
+
+6
+
+Advances in Hematology
+
+difference in ART regimen taking, presence/absence and/or
+level of opportunistic infections, lack of awareness about
+appropriate nutrition, and inclusion and/or exclusion criteria
+in recruiting study participants.
+
+The finding of this study indicates that almost one-third
+of the study participants were anemic, which is a concern,
+as untreated anemia in people living with HIV/AIDS and/or
+taking ART is associated with pathophysiologic changes and
+progression of the disease to advanced stage and finally may
+result in death of the individual [25]. Thus, there should be an
+intervention that has an ultimate effect in reducing mortality
+related to complications of anemia among people living with
+HIV/AIDS and/or taking ART drug.
+
+Factors associated with anemia include gender, occu-
+pation, WBC count, platelet count, nutritional status, and
+WHO clinical staging level. These findings are partly in line
+with similar previous study findings [9, 11, 18, 21]. According
+to the findings of this study, females were more likely to
+be anemic compared to males. This finding is in line with
+studies from Nigeria and South Africa [10, 29]. However, the
+unemployed study participants were less likely to be anemic
+compared to the employed study participants. Similarly,
+younger study participants were found to be less likely to be
+anemic compared to the elders. This finding is in line with
+studies from Ethiopia [10, 14]. This may be due to the fact
+that the younger study participants’ cell proliferating organs
+have more competent proliferation capacity of red blood cell
+and the participants themselves are more aware about benefit
+of consuming more nutritional diet and/or have a better
+socioeconomic and educational status.
+
+Moreover, we found that underweight study participants
+were more likely to be anemic, while those with normal
+weight were less likely to be anemic. This finding is consistent
+with previous studies conducted in developing countries [10,
+12, 38]. This may be due to the fact that the underweight
+individuals are less aware about the benefit of appropriate
+nutrition consumption and/or have a less socioeconomic and
+educational condition or may have less adherence to ART
+drug therapy. Further, those study participants taking ZDV-
+containing ART drug were found more likely to be anemic
+compared to those who were not. This finding is in line with
+similar studies from Ethiopia [11, 13, 20, 35]. This is usually
+due to the side effect of the ART drug ZDV resulting in
+manifestation of granulocytopenia, anemia, malaise, fatigue,
+and other gastrointestinal symptoms [39].
+
+Bearing in mind the effect of anemia and its significant
+prevalence, it is a great disquiet that more than one-third of
+the study participants were anemic, while appropriate treat-
+ment options are available and the study participants were
+on ART drug for at least three months, which have an effect
+to combat the pathogenesis of the disease. Therefore, based
+on the findings of this study, the following interventions are
+suggested to detect and combat anemia among people living
+with HIV/AIDS taking ART drug. (1) Monitor hemoglobin
+level on each of the follow-up periods by focusing on
+those people taking ART drug regimen containing ZDV
+and take appropriate action to combat the anemia if anemia
+is detected. This is because the pathogenesis of anemia is
+worrisome and ZDV by itself has an effect on reducing
+
+proliferation of red blood cells. (2) Monitor adherence level
+of the people living with HIV/AIDS taking ART drug to their
+therapy and motivate, encourage, and advise them to adhere
+to the ART drug therapy consistently to gain its therapeutic
+effect. This is because ART drug has an effect on combating
+anemia among people living with HIV/AIDS taking ART
+drug. (3) Monitor and take quick appropriate action for drug-
+drug interaction and magnified side effects of each drug
+which may occur in people living with HIV/AIDS taking
+ART drug. This is because drug-drug interaction and side
+effects of some drugs by themselves interfere with reduced
+proliferation of granulocytes and contribute to raising imma-
+ture destruction of cells. (4) Increase awareness of people
+living with HIV/AIDS taking ART drug about the benefit
+of adhering to consumption of nutritional diet consistently.
+This is because consuming appropriate diet helps the body
+in proliferating enough amounts of red blood cells and other
+granulocytes. This study has limitations. Firstly, it is a cross-
+sectional study that has chicken egg dilemma in identifying
+causal relationship. Secondly, the study excludes people living
+with HIV/AIDS who are na¨ıve to ART drug. Thus, it is
+recommended that future study considers longitudinal study
+by considering ART-na¨ıve people living with HIV/AIDS by
+determining the severity of anemia.
+
+In conclusion, it is important to alleviate anemia among
+people living with HIV/AID taking ART drug, as the
+presence of anemia among people living with HIV/AIDS
+fastens the progression of the disease to the advanced
+stages. The suggested intervention by this study focused at
+improving nutritional status of people living with HIV/AIDS
+taking ART drug through enhancing awareness of benefit
+of consuming balanced diet and monitoring and managing
+granulocytes level appropriately, which increases survival
+rate; it is best to monitor granulocytes like CD4 count, platelet
+and WBC count, and hemoglobin level more frequently. It is
+also good to focus on sociodemographic characteristics like
+gender and occupation of the client, which have an ultimate
+effect in affecting level of anemia among people living with
+HIV/AIDS.
+
+Data Availability
+The data used to support the findings of this study are
+available from the corresponding author upon request.
+
+Conflicts of Interest
+The authors declare that they do not have any conflicts of
+interest.
+
+Acknowledgments
+The authors are grateful to data collectors for collecting the
+data per the instruction given and healthcare workers in the
+ART clinic of the hospital for their cooperation in the data
+collection process.
+
+Advances in Hematology
+
+7
+
+References
+[1] N. J. Kassebaum, T. D. Fleming, A. Flaxman et al., “The global
+burden of anemia,” Hematology/Oncology Clinics of North
+America, vol. 30, no. 2, pp. 247–308, 2016.
+
+[2] WHO, “Global estimates of the prevalence of anaemia in infants
+and children aged 6–59 months,” http://www.who.int/nutrition/
+publications/micronutrients/globalprevalenceanaemia, 2011.
+
+[3] “United States Department of Health and Human Service
+National institute of Health, National Heart, Lung and blood
+institute. Guide to anemia,” 2011, https://www.nhlbi.nih.gov/
+files/docs/public/blood/anemia-inbrief yg.pdf.
+
+[4] WHO, “Towards an integrated approach for effective anaemia
+control,” 2004, http://www.who.int/nutrition/publications/mi-
+cronutrients/WHOandUNICEF statement anaeiaen.pdf.
+
+[5] O. Ifudu, “Maximizing response to erythropoietin in treating
+HIV-associated anemia,” Cleveland Clinic Journal of Medicine,
+vol. 68, no. 7, pp. 643–648, 2001.
+
+[6] “Johns Hopkins University and Parul Christian International
+Nutrition, Iron Deficiency and Anemia Causes, Consequences,
+and Solutions,” http://ocw.jhsph.edu/courses/InternationalNu-
+trition/PDFs/Lecture5.pdf, 2005.
+
+[7] P. A. Volberding, A. M. Levine, D. Dieterich, D. Mildvan, R.
+Mitsuyasu, and M. Saag, “Anemia in HIV infection: clinical
+impact and evidence-based management strategies,” Clinical
+Infectious Diseases, vol. 38, no. 10, pp. 1454–1463, 2004.
+
+[8] B. Dikshit, A. Wanchu, R. K. Sachdeva, A. Sharma, and R. Das,
+“Profile of hematological abnormalities of Indian HIV infected
+individuals,” BMC Blood Disorders, vol. 9, article 5, 2009.
+
+[9] A. G. Alamdo, T. Fiseha, A. Tesfay, M. K. Deber, Z. M. Tirfe, and
+T. Tilahun, “Anemia and its associated risk factors at the time
+of antiretroviral therapy initiation in public health facilities of
+Arba Minch Town, Southern Ethiopia,” Health, vol. 07, no. 12,
+pp. 1657–1664, 2015.
+
+[10] S. Takuva, M. Maskew, A. T. Brennan, I. Sanne, A. P. Macphail,
+and M. P. Fox, “Anemia among HIV-infected patients initi-
+ating antiretroviral therapy in South Africa: improvement in
+hemoglobin regardless of degree of immunosuppression and
+the initiating art regimen,” Journal of Tropical Medicine, vol.
+2013, Article ID 162950, 6 pages, 2013.
+
+[11] F. Masaisa, J. B. Gahutu, J. Mukiibi, J. Delanghe, and J. Philipp´e,
+“Anemia in human immunodeficiency virus-infected and unin-
+fected women in Rwanda,” The American Journal of Tropical
+Medicine and Hygiene, vol. 84, no. 3, pp. 456–460, 2011.
+
+[12] R. Subbaraman, B. Devaleenal, P. Selvamuthu et al., “Factors
+associated with anaemia in HIV-infected individuals in south-
+ern India,” International Journal of STD & AIDS, vol. 20, no. 7,
+pp. 489–492, 2009.
+
+[13] M. Meidani, F. M. Rezaei, R. A. Mohammad, and T. K.
+Majid, “Prevalence, severity, and related factors of anemia in
+HIV/AIDS patients,” Journal of Research in Medical Sciences,
+vol. 17, no. 2, pp. 138–142, 2012.
+
+[14] M. Alem, T. Kena, N. Baye, R. Ahmed, and S. Tilahun, “Preva-
+lence of anemia and associated risk factors among adult HIV
+patients at the anti-retroviral therapy clinic at the university
+of gondar hospital, Gondar, Northwest Ethiopia,” Open Access
+Scientific Reports, vol. 2, no. 3, 2013.
+
+[15] “Government of Nepal Ministry of Health & Population
+National Centre for AIDS & STD Control, National Anti-
+retroviral Therapy Guidelines,” 2009, http://www.who.int/hiv/
+pub/guidelines/nepal art.pdf?ua=1.
+
+[16] K. Berhane, R. Karim, M. H. Cohen et al., “Impact of highly
+therapy on anemia and relationship
+active antiretroviral
+between anemia and survival in a large cohort of HIV-infected
+women: women’s interagency HIV study,” Journal of Acquired
+Immune Deficiency Syndromes, vol. 37, no. 2, pp. 1245–1252,
+2004.
+
+[17] P. S. Belperio and D. C. Rhew, “Prevalence and outcomes of
+anemia in individuals with human immunodeficiency virus:
+a systematic review of the literature,” American Journal of
+Medicine, vol. 116, no. 7, pp. 27–43, 2004.
+
+[18] M. Assefa, W. E. Abegaz, A. Shewamare, G. Medhin, and
+M. Belay, “Prevalence and correlates of anemia among HIV
+infected patients on highly active anti-retroviral therapy at
+Zewditu Memorial Hospital, Ethiopia,” BMC Hematology, vol.
+15, no. 1, p. 6, 2015.
+
+[19] B. Enawgaw, M. Alem, M. Melku, Z. Addis, B. Terefe, and
+G. Yitayew, “Prevalence and associated risk factors of anemia
+among HIV infected children attending Gondar university
+hospital, Northwest Ethiopia: a cross sectional study,” BMC
+Hematology, vol. 15, no. 1, p. 12, 2015.
+
+[20] H. Melese, M. M. Wassie, H. Woldie, A. Tadesse, and N. Mesfin,
+“Anemia among adult HIV patients in Ethiopia: A hospital-
+based cross-sectional study,” HIV/AIDS - Research and Palliative
+Care, vol. 9, pp. 25–30, 2017.
+
+[21] L. Gedefaw, T. Yemane, Z. Sahlemariam, and D. Yilma, “Anemia
+and risk factors in HAART na¨ıve and HAART experienced HIV
+positive persons in South West Ethiopia: a comparative study,”
+PLoS ONE, vol. 8, no. 8, Article ID e72202, 2013.
+
+[22] K. Tadesse, F. Haile, and N. Hiruy, “Predictors of mortality
+among patients enrolled on antiretroviral therapy in Aksum
+hospital, Northern Ethiopia: a retrospective cohort study,” PLoS
+ONE, vol. 9, no. 1, Article ID e87392, 2014.
+
+[23] H. M. Wolde, W. T. Lerebo, K. H. Girmay, and Y. A. Melaku,
+“Incidence and risk factors of anemia among HIV/AIDS
+patients taking anti-retroviral terapy at tertiary hospitals in
+Addis Ababa, Ethiopia: a retrospective cohort study,” Journal of
+HIV/AIDS & Infectious Diseases, vol. 2, no. 303, 2014.
+
+[24] WHO, “WHO Hemoglobin Cut - Offs,” 2001, https://www
+.k4health.org/toolkits/anemia-prevention/hemoglobin-cut-offs.
+[25] A. J. Redig and N. Berliner, “Pathogenesis and clinical impli-
+cations of HIV-related anemia. HIV in heamatology,” http://
+asheducationbook.hematologylibrary.org/content/2013/1/377
+.full.pdf, 2013.
+
+[26] World Health Organization, “Labratory Guidelines for enumer-
+ating CD4 T Lymphoctes in the context of HIV/AIDS,” 2007,
+http://www.who.int/hiv/amds/LaboratoryGuideEnumerat-
+ingCD4TLymphocytes.pdf.
+
+[27] J. Bacovsky, “Blood count interpretation,” http://public.fnol
+
+.cz/www/3ik/data/soubory en/bacovsky blood count.pdf.
+
+[28] “Center for Disease Control and Prevention, Body Mass Index
+considerations for Practitioners,” https://www.cdc.gov/obesity/
+downloads/bmiforpactitioners.pdf.
+
+[29] G. R. Pennap and K. Abubakar, “Prevalence of anemia among
+human immunodeficiency virus infected patients accessing
+healthcare in Federal Medical Center Keffi, Nigeria,” Interna-
+tional Journal of Tropical Disease & Health, vol. 10, no. 3, pp. 1–7,
+2015.
+
+[30] Y. Shen, Z. Wang, H. Lu et al., “Prevalence of anemia among
+adults with newly diagnosed HIV/AIDS in China,” PLoS ONE,
+vol. 8, no. 9, p. e73807, 2013.
+
+[31] C. Martin, K. Poudel-Tandukar, and K. C. Poudel, “HIV
+symptom burden and anemia among HIV-positive individuals:
+
+8
+
+Advances in Hematology
+
+cross-sectional results of a community-based positive living
+with HIV (POLH) study in Nepal,” PLoS ONE, vol. 9, no. 12,
+Article ID e116263, 2014.
+
+[32] R. Omoregie, E. U. Omokaro, O. Palmer et al., “Prevalence of
+anaemia among HIV-infected patients in Benin City, Nigeria,”
+Tanzania Journal of Health Research, vol. 11, no. 1, pp. 1–4, 2009.
+[33] R. E. Ahumareze, J. Rankin, A. David et al., “Prevalence of
+anaemia and the relationship between haemoglobin concentra-
+tion and CD4 count in HIV positive children on highly active
+antiretroviral therapy (HAART) in Lagos, Nigeria,” Current
+Pediatric Research, vol. 20, no. 1-2, pp. 29–36, 2016.
+
+[34] Z. Tamir, J. Alemu, and A. Tsegaye, “Anemia among HIV
+infected individuals taking ART with and without zidovudine
+at Addis Ababa, Ethiopia,” Ethiopian Journal of Health Sciences,
+vol. 28, no. 1, pp. 73–82, 2018.
+
+[35] M. Wubetu and E. Mebratu, “Assessment of the prevalence of
+zidovudine induced anemia among adult HIV/AIDS patients
+on HAART in an ethiopian hospital,”Occupational Medicine &
+Health Affairs, vol. 6, no. 1, 2018.
+
+[36] H. Mihiretie, B. Taye, and A. Tsegaye, “Magnitude of ane-
+mia and associated factors among pediatric HIV/aids patients
+attending Zewditu memorial hospital art clinic, Addis Ababa,
+Ethiopia,” Anemia, vol. 2015, Article ID 479329, 2015.
+
+[37] T. Deressa, D. Damtie, and M. Melku, “Anemia and thrombo-
+cytopenia in the cohort of HIV-infected adults in northwest
+Ethiopia: a facility-based cross-sectional study,” The Journal of
+International Federation of Clinical Chemistry and Labratory
+Medicine, vol. 29, no. 1, 2018.
+
+[38] P. Mijiti, Z. Yuexin, L. Min, M. Wubuli, P. Kejun, and H. Upur,
+“Prevalence and predictors of anaemia in patients with HIV
+infection at the initiation of combined antiretroviral therapy in
+Xinjiang, China,” International Journal of STD & AIDS, vol. 26,
+no. 3, pp. 156–164, 2015.
+
+[39] R. Sperling, “Effect of ART drug ZDV(Zidovudine),” Infectious
+Diseases in Obstetrics and Gynecology, vol. 6, pp. 197–203, 1998.
+
+
+**************************************************************************************************

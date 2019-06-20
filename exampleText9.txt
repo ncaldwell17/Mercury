@@ -1,0 +1,389 @@
+Epilepsy & Behavior Case Reports 11 (2019) 14–17
+
+Contents lists available at ScienceDirect
+
+Epilepsy & Behavior Case Reports
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / e b c r
+
+Case Report
+Down syndrome associated moyamoya may worsen epilepsy control and
+can beneﬁt from surgical revascularization☆
+Sarah R. Garson a, Stephen J. Monteith b, Sheila D. Smith c, Bart P. Keogh d,
+Ryder P. Gwinn b,c, Michael J. Doherty a,c,⁎
+
+a Swedish Epilepsy Center, Seattle, WA, USA
+b Swedish Neuroscience Institute, Department of Neurosurgery, Seattle, WA, USA
+c Swedish Neuroscience Institute, Department of Neurology, Seattle, WA, USA
+d Radia Neuroimaging, Seattle, WA, USA
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 23 June 2018
+Received in revised form 11 September 2018
+Accepted 19 September 2018
+Available online 9 October 2018
+
+Keywords:
+Bypass
+Perfusion
+Stenosis
+
+Objectives: To examine outcome of bilateral extracranial to intracranial (EC-IC) bypass surgeries for a Down syn-
+drome patient with hard-to-treat epilepsy and moyamoya.
+Materials and methods: Superﬁcial temporal arteries were anastamosed using an indirect bypass technique to
+middle cerebral arteries bilaterally to help limit perfusion deﬁcits and seizure controls.
+Results: Two superﬁcial temporal to middle cerebral artery indirect bypass surgeries were performed within 3
+months. Post-revascularization improvements included seizure control, gait, perfusion, wakefulness, language
+and quality of life.
+Conclusion: In patients with Down syndrome and moyamoya, improvements in seizure control and quality of life
+may occur with EC-IC bypass procedures.
+
+© 2018 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+1. Introduction
+
+2. Materials and methods
+
+Down syndrome is associated with epilepsy and seizure burdens
+may worsen with age and progression of associated dementia [1,2].
+Down syndrome may predispose to progressive intracranial vascular
+narrowing associated with moyamoya syndrome [3–9]. Moyamoya is
+a vascular syndrome of proximal internal carotid artery terminus
+narrowings and resultant poor perfusion and elevated stroke risk
+typically involving the anterior cerebral and middle cerebral artery
+territories [3–9]. Of patients with Down syndrome and moyamoya,
+approximately 26% may have epilepsy [10].
+
+Perfusion abnormalities due to moyamoya may beneﬁt from surgical
+revascularization with extracranial to intracranial artery bypass (EC-IC
+bypass), though outcomes mainly assess stroke-related compromises
+[10,11]. In this report we discuss the worsening of seizure controls
+due to moyamoya induced vascular narrowing and the betterment of
+both CNS perfusion and seizure control with bilateral surgical revascu-
+larization using EC-IC bypass.
+
+☆ Funding source: this study was not funded.
+⁎ Corresponding author at: 500 17th Ave Suite 540, Seattle, WA 98122, USA.
+
+E-mail address: Michael.doherty@swedish.org (M.J. Doherty).
+
+With informed parental consent, medical records were accessed and
+abstracted for data on seizure frequency, imaging, surgical interventions
+and both clinical and imaging outcomes. MRI Perfusion techniques were
+preformed according to RAPID software (Menlo Park, CA, USA) [12].
+
+3. Case report
+
+A 27-year-old female with Down syndrome, drug resistant epilepsy
+with recurrent focal impaired awareness seizures presented with wors-
+ening seizures. Imaging with both cerebral angiography and MRI dem-
+onstrated bilateral moyamoya disease (Figs. 1, 2), with classic ﬂow
+compromise beginning at the terminus of bilateral internal carotid ar-
+teries. Over an 18 month period, serial MR perfusion studies utilizing
+Tmax (the time to maximum of the residue function) as a surrogate
+marker of cerebral hypoperfusion were obtained and showed increasing
+perfusion delays over the bilateral middle and anterior cerebral artery
+territories, concomitant with worsening seizure control (Fig. 2). Events
+could cluster and were exacerbated by presumptive orthostatic posi-
+tional changes such as standing after prolonged sitting or toileting. On
+EEG a diffuse, poorly lateralized high voltage bifrontal pleomorphic
+delta was evident at baseline, though no falling events were captured
+on EEG. A multitude of anti-seizure medications were trialed and
+while they may have shown initial betterment of seizure controls,
+
+https://doi.org/10.1016/j.ebcr.2018.09.008
+2213-3232/© 2018 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+S.R. Garson et al. / Epilepsy & Behavior Case Reports 11 (2019) 14–17
+
+15
+
+Fig. 1. Cerebral angiography with sequential preoperative lateral views of internal left internal carotid artery show narrowing beyond ICA terminus and minimal ﬁlling of what should be
+middle and anterior cerebral artery territories.
+
+over the course of several years seizure control declined. Seizure types,
+medication burdens and time-based progression of ﬁndings, including
+seizure control are documented in the table. Her pre-operative exam
+was notable for classic phenotype of an ambulatory patient with
+Down syndrome in addition to minimal responsivity, progression to-
+wards expressive more than receptive aphasia and profound fatigue.
+
+Because of increasing number of seizures and falls, and the known
+worsening in cerebral perfusion, she underwent a left indirect external
+
+carotid to internal carotid circulation bypass. Speciﬁcally the posterior
+auricular branch of the external carotid artery was sewn to the pial sur-
+face of the brain with dural eversion and temporal muscle placement on
+brain surface in an encephaloduromyosynangiosis (EDAMS) procedure.
+The more traditional donor of the superﬁcial temporal artery was not
+utilized as it was already providing some collateral circulation to the
+brain. This was true of bilateral superﬁcial temporal arteries. She recov-
+ered well and 3 months later returned for the same procedure on the
+
+Fig. 2. Axial T2 MRI shows an absence of ischemic deﬁcits (A). Representative images from parametric mapping of Tmax (transit time) perfusion imaging results before (B) and after (C)
+reperfusion, showing interval decrease in hypoperfused brain parenchyma. Automated quantiﬁcation of perfusion imaging (RAPID) gives a reduction in tissue meeting threshold for
+hypoperfusion (Tmax N 6 s) from 150.7 cm3 to 14 cm3 (whole brain). Y-axis color units displayed are perfusion times in seconds.
+
+16
+
+Table 1
+Clinical details.
+
+Seizure type or clinical ﬁnding
+
+Generalized onset tonic clonic
+Generalized atonic
+Focal epilepsy manifest as focal impaired awareness
+
+with motor onsets (gasps, looks terriﬁed, if
+progresses, elevates both arms and falls or slumps,
+shaking bilateral arms and legs)
+
+Focal epilepsy manifest as non-motor onset behavior
+arrest, with emotional changes (cries) and cognitive
+changes (slowed responses)
+
+Language abilities:
+
+MRI Perfusion studies
+
+Cognitive or other changes:
+
+Medications
+
+S.R. Garson et al. / Epilepsy & Behavior Case Reports 11 (2019) 14–17
+
+2 years prior to
+surgery
+
+6 months prior to 1st
+surgery
+
+1 year post both surgeries
+
+10+ years
+prior to
+surgery
+
+Two events
+Once
+1 per week
+
+None
+None
+2–3 times a
+week
+
+None
+None
+Daily
+
+Once
+
+1–2 per month
+
+1–2 per week
+
+None
+None
+Very mild shaking may progress to fall and
+coincident with period or anticonvulsant medication
+reduction, less intense events, one every two
+months
+One event in 12 months
+
+Answered
+questions
+NA
+
+Won a ribbon
+for her
+horseback
+riding
+costume
+
+Levetiracetam
+2250 mg bida
+Lamotrigine
+250 mg bida
+
+Could not repeat No words, no repetition
+
+Greets people and uses her own name
+
+No defect
+evident
+Decreased
+energy,
+increasingly
+tired, was riding
+horses
+
+Evident worsening,
+bilaterally in ICA territories
+Energy level and
+progressively more
+withdrawn and
+hypersomnolent, unable to
+ride horses
+
+Levetiracetam 2000 mg am
+2500 mg pm
+Clobazam 20 mg bid
+Lamotrigine 300 mg am
+200 mg pm
+Aspirin 81 mg
+
+Levetiracetam
+2000 mg am
+2500 mg pm
+Clobazam 20 mg
+bid
+Lamotrigine
+300 mg am 200
+mg pm
+Aspirin 81 mg
+
+Improvements bilaterally, Fig. 2
+
+Increased energy, laughs frequently, better
+concentration, decreased need for sleep, blue
+ribbons for horseback riding in equitation
+(command following, rider posture, rider balance
+and rider's control of horse) and obstacle course
+success
+Levetiracetam 1000 mg bid
+Clobazam 20 mg bid
+Lamotrigine 300 mg am 200 mg pm
+Aspirin 81 mg
+
+a These two doses are from 5, not 10 years prior.
+
+right side. Intraoperatively the posterior auricular branch was found to
+be extremely small, even for an onlay graft in continuity; and so only
+dural inversions and temporal muscle onlay grafts were performed.
+
+Surgical outcomes post-operatively were excellent, At 15 months
+post-left bypass at one year post-right bypass there's been marked im-
+provements while on triple drug anti-seizure medications (Table 1).
+She was more alert, showed a resolution of aphasia, used more spontane-
+ous speech than she had in decades, no longer fell or slumped, and
+remained awake and alert during the day. Nine-month post-operative
+MRI scan shows marked improvements in bilateral CNS perfusion (Fig. 2).
+
+4. Discussion
+
+In Down syndrome patients with moyamoya we came across prior
+bypass attempts mainly using encephaloduroarteriosynangiosis [6].
+The exact surgery involved is not described, though the outcome was
+a cessation of “further episodes.” Cramer reported ﬁve patients with
+Down syndrome and moyamoya who were treated with bilateral pial
+synangiosis with no further strokes though no comment is made on sei-
+zure outcomes [9]. Cramer's series is probably included in a later case
+series of surgical outcomes with pial synangiosis which was performed
+in 49 of 51 surgeries from 32 children with Down syndrome and
+moyamoya, two in that series had direct EC-IC bypass [10]. From that
+same series clinical outcomes as measured by modiﬁed Rankin scores
+improved, one of 32 children had seizure control worsen postopera-
+tively, epilepsy improvement outcomes pre- vs. post-surgery were oth-
+erwise not studied. Surgical complications were slightly higher in
+children with Down syndrome (5.9%) than in moyamoya patients with-
+out Down syndrome (4%) though long-term revascularization was bet-
+ter in patients with Down syndrome.
+
+It has been postulated that chromosome 21 encodes a protein that
+may predispose to pathogenesis of moyamoya [9]. Furthermore, there
+may be amyloid precursor protein effects (housed on chromosome
+21) that similarly predispose to progressive myoclonus epilepsy [2].
+Given improvements in cognitive function postoperatively, we
+
+speculate the main reason for our patient's worsening of seizure control
+relates more to the progressive declines in cortical perfusion than amy-
+loid deposition or dementia related changes.
+
+5. Conclusion
+
+Moyamoya should be assessed as an etiology for seizure controls
+worsening in patients with Downs syndrome. Importantly, EC-IC bypass
+procedures performed in a Down syndrome patient with moyamoya
+and hard-to-treat epilepsy had an outstanding outcome on seizure con-
+trol, brain perfusion, cognition and quality of life. Based on this result,
+we suggest further study of epilepsy outcomes after revascularization
+procedures in patients with moyamoya, Down syndrome and epilepsy.
+
+Conﬂict of interest
+
+This paper has no ﬁnancial support. Sarah Garson as well as Drs.
+
+Smith, Keogh, Monteith, Gwinn and Doherty have no disclosures.
+
+Ethical statement
+
+Informed consent was obtained for this case write up and the work
+has been carried out in accordance with The Code of Ethics of the
+World Medical Association.
+
+References
+
+[1] Prasher VP. Epilepsy and associated effects on adaptive behaviour in adults with
+
+Down syndrome. Seizure 1995;4:53–6.
+
+[2] d'Orsi G, Specchio LM, Apulian Study Group on Senile Myoclonic Epilepsy. Progres-
+sive myoclonus epilepsy in Down syndrome patients with dementia. J Neurol
+2014;261:1584–97.
+
+[3] Schrager GO, Cohen SJ, Vigman MP. Acute hemiplegia and cortical blindness due to
+moya moya disease: report of a case in a child with Down's syndrome. Pediatrics
+1977;60:33–7.
+
+[4] van Erven PM, Gabreëls FJ, Thijssen HO, Renier WO. The Moya-moya syndrome: a
+
+report of two children. Clin Neurol Neurosurg 1982;84:179–89.
+
+S.R. Garson et al. / Epilepsy & Behavior Case Reports 11 (2019) 14–17
+
+17
+
+[5] Cornelio-Nieto JO, Dávila-Gutiérrez G, Ferreyro-Irigoyen R, Alcalá H. Acute hemiple-
+gia in childhood and alternating hemiconvulsions secondary to Moya-Moya disease.
+Report of a case associated with Down's syndrome. Bol Med Hosp Infant Mex 1990;
+47:39–42.
+
+[6] AI1 Dai, Shaikh ZA, Cohen ME. Early-onset Moyamoya syndrome in a patient with
+Down syndrome: case report and review of the literature. J Child Neurol 2000;15:
+696–9.
+
+[7] Vila-Herrero E, Padilla-Parrado F, Vega-Pérez J, García-Casares N, Heras-Pérez JA,
+Romero-Acebal M. Moya-moya syndrome and arterial dysplasia associated to
+Down syndrome. Rev Neurol 2004;39:943–5.
+
+[8] Chaanine A, Hugonenq C, Lena G, Mancini J. Neurological complications in Down
+
+syndrome. Arch Pediatr 2008;15:388–96.
+
+[9] Cramer SC, Robertson RL, Dooling EC, Scott RM. Moyamoya and Down syndrome.
+
+Clinical and radiological features. Stroke 1996;27:2131–5.
+
+[10] See AP, Ropper AE, Underberg DL, Robertson RL, Scott RM, Smith ER. Down syn-
+drome and moyamoya: clinical presentation and surgical management. Neurosurg
+Pediatr 2015;16:58–63.
+
+[11] Mehdorn HM. Cerebral revascularization by EC-IC bypass—present status. Acta
+
+Neurochir Suppl 2008;103:73–7.
+
+[12] Straka M, Albers GW, Bammer R. Real-time diffusion-perfusion mismatch analysis in
+
+acute stroke. J Magn Reson Imaging 2010;32:1024–37.
+
+
+**************************************************************************************************
