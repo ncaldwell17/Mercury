@@ -1,0 +1,1203 @@
+Hindawi
+Advances in Hematology
+Volume 2019, Article ID 1783240, 8 pages
+https://doi.org/10.1155/2019/1783240
+
+Research Article
+Lung Function Abnormalities in Sickle Cell Anaemia
+
+Yvonne A. Dei-Adomakoh ,1 Jane S. Afriyie-Mensah,2 Audrey Forson,2 Martin Adadey,2
+Thomas A. Ndanu,3 and Joseph K. Acquaye1
+1Department of Haematology, School of Biomedical and Allied Health Sciences, College of Health Sciences,
+University of Ghana, Accra, Ghana
+2Department of Medicine and therapeutics, School of Medicine and Dentistry, College of Health Sciences,
+University of Ghana, Accra, Ghana
+3Department of Community and Preventive Dentistry, School of Medicine and Dentistry, College of Health Sciences,
+University of Ghana, Accra, Ghana
+
+Correspondence should be addressed to Yvonne A. Dei-Adomakoh; deiadom@yahoo.com
+
+Received 15 November 2018; Revised 31 January 2019; Accepted 26 February 2019; Published 1 April 2019
+
+Academic Editor: Estella M. Matutes
+
+Copyright © 2019 Yvonne A. Dei-Adomakoh et al. This is an open access article distributed under the Creative Commons
+Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is
+properly cited.
+
+Background. Abnormalities in lung function tests have been shown to commonly occur in a majority of patients with sickle cell
+disease (SCD) even at steady state. The prevalence and pattern of these lung function abnormalities have been described in other
+populations but this is unknown among our sickle cell cohort. There is generally little information available on risk factors associated
+with the lung function abnormalities and its relevance in patient care. Method. This was an analytical cross-sectional study involving
+76 clinically stable, hydroxyurea-naive adult Hb-SS participants and 76 nonsickle cell disease (non-SCD) controls. A structured
+questionnaire was used to obtain sociodemographic data and clinical history of the participants. Investigations performed included
+spirometry, pulse oximetry, tricuspid regurgitant jet velocity (TRV) measurements via echocardiogram, complete blood counts, free
+plasma haemoglobin, serum urea, and creatinine. Results. Weight, BMI, mean FVC, and FEV1% predicted values were comparatively
+lower among the Hb-SS patients (p < 0.001). Abnormal spirometry outcome occurred in 70.4% of Hb-SS patients, predominantly
+restrictive defects (p < 0.001), and showed no significant association with steady-state Hb, WBC count, free plasma haemoglobin,
+frequency of sickling crisis, chronic leg ulcers, and TRV measurements (p > 0.05). The mean oxygen saturation was comparatively
+lower among Hb-SS patients (p < 0.001). Conclusion. Measured lung volumes were significantly lower in Hb-SS patients when
+compared to non-SCD controls and this difference was not influenced by anthropometric variance. Lung function abnormalities,
+particularly restrictive defects, are prevalent in Hb-SS patients but showed no significant association with recognized markers of
+disease severity.
+
+1. Introduction
+
+The lung is one of the major organs affected by sickle
+cell disease (SCD) being a common site of hypoxic and
+ischaemic injury and emboli from marrow infarcts/fat necro-
+sis and is plagued with increased propensity for developing
+pneumonias [1–3]. Acute and chronic lung complications
+in sickle cell disease are major causes of morbidity and
+mortality, accounting for 20-30% of all sickle cell deaths [1, 4].
+Chronic complications could manifest as abnormalities in
+lung function, interstitial lung disease, or pulmonary hyper-
+tension. Lung function abnormalities have been shown to
+
+commonly occur in a majority of SCD patients even at steady
+state and these include lower lung volumes (FEV1/FVC),
+decreased diffusion capacity for carbon monoxide, airway
+hyperresponsiveness/asthma, and hypoxaemia [5, 6]. The
+reported prevalence of these lung function abnormalities is
+varied [7–11]. Although early stages of these lung function
+abnormalities are usually asymptomatic, a significant number
+of SCD patients may have dyspnoea on exertion with reduced
+exercise capacity when severe [12]. A recent study found an
+association between low FEV1 and increased risk of mortality
+among adults with Hb-SS [13]. Powars et al. had earlier
+suggested that abnormalities in lung function tests could be
+
+2
+
+Advances in Hematology
+
+the first objective sign of sickle cell chronic lung disease and
+could reduce morbidity when detected early through screen-
+ing [10]. The current study therefore sought to determine the
+prevalence and pattern of lung function abnormalities among
+a cohort of adult Hb-SS patients compared to healthy non-
+SCD controls and identify associated factors.
+
+2. Methods
+This was an analytical cross-sectional study carried out
+between March and June 2014. The study was conducted
+at the Ghana Institute of Clinical Genetics which houses
+the sickle cell clinic of the Korle-Bu Teaching Hospital,
+a major referral site for the Accra Metropolis. The study
+sample consisted of 76 randomly selected Hb-SS adults, 18
+years and above from the out-patient unit of the sickle
+cell clinic who were in their steady state with results of
+electrophoresis clearly documented in their medical records.
+Seventy-six-year-old and sex matched non-SCD controls
+were selected from among the healthcare staff of the above
+hospital.
+
+A structured questionnaire was used to collect partici-
+pants' sociodemographic and medical information after writ-
+ten consent was obtained. Anthropometric measurements
+such as weight, height, and BMI were taken as well as blood
+pressure, pulse rate, and oxygen saturation using Omron
+digital BP machine (Intelli Sense R) and ChoiceMMED
+brand pulse oximeter, respectively. A modified version of St.
+George’s Respiratory questionnaire was used to screen the
+participants for symptoms of chronic respiratory diseases and
+excluded if present. General cardiorespiratory examination
+was performed on all participants to further exclude res-
+piratory, cardiovascular, and musculoskeletal abnormalities
+that were capable of influencing the spirometry or echocar-
+diogram results. Spirometry was performed and interpreted
+for all participants according to American Thoracic Society
+(ATS) protocol using SCHILLER SPIROVIT SP-1 (Schiller-
+AG, Switzerland) [14]. The best of three FEV1 and FVC
+test value from acceptable and reproducible maneuvers was
+recorded as both absolute and percentage predicted values.
+Abnormal FEV1 or FVC% predicted was defined as values <
+80% of predicted values. For the purposes of this research,
+a forceful blow of ≥ 3sec was considered an acceptable blow
+for interpretation and analysis [9]. Blood samples taken were
+analysed for complete blood count, urea, and creatinine
+and free plasma haemoglobin (a marker of intravascular
+hemolysis). For the latter, solid phase-phase sandwich ELISA
+technique was used and optimization was predetermined
+prior to running the test sample. Values >40ug/ml were
+regarded as abnormal and suggestive of ongoing intravascular
+haemolysis [3]. Patients underwent transthoracic echocar-
+diogram which was performed by a consultant cardiologist
+using a Toshiba brand ECHO machine, Aplio 300 3MHz
+transducer in accordance with the American echocardiog-
+raphy society guidelines [15]. The average of three different
+TRV measurements was recorded as the mean TRV value,
+where values ≥ 2.5m/s were classified as elevated TRV
+[16].
+
+2.1. Study Definitions. Steady state: absence of acute painful
+events or hemolytic episodes 4 weeks prior to recruitment as
+well as no hemotransfusion within the same specified period.
+Sickle cell crisis: sickle cell crisis was defined as acute
+painful episodes that required use of oral or intravenous
+analgesics and led to ER or daycare visits with or without
+hospitalization.
+
+Severity of disease: for the purpose of this study disease
+severity was defined as (1) having 3 or more acute painful
+episodes in the past one year prior to study [17]; (2) history
+of chronic leg ulcer (3) history of priapism; (4) elevated TRV
+on ECHO.
+
+Data analysis was done using Statistical Package for
+Social Sciences (SPSS) version 22. ANOVA was used to
+compare FVC and FEV1% predicted values among the
+study participants as well as comparing means of labora-
+tory indices between Hb-SS participants with normal and
+abnormal spirometry outcomes. Spearman’s rank correlation
+and Dunnett’s pairwise post hoc analysis were used to
+establish relationships between spirometry and laboratory
+measurements. Chi-square test was employed to compare
+proportions of spirometry outcomes among relevant cate-
+gories of respondents. Linear regression and multivariate
+analysis were used to examine significant factors influencing
+spirometry outcomes.
+
+Approval was obtained from the Ethical and Protocol
+Review Committee of the College of Health sciences, Univer-
+sity of Ghana (protocol identification number CHS-Et/M.10-
+P3.9/2013-2014).
+
+3. Results
+Table 1 shows the age and gender distribution as well as
+anthropometric characteristics of the participants. The mean
+age for the Hb-SS participants was 33.8 ± 11.1 years with
+majority (60.5%) being females. The mean weight and BMI of
+Hb-SS participants were 59±13.2kg and 21.8±4.2, respectively,
+compared to 69.1± 14.5kg and 25.1± 4.8, respectively, among
+the controls (p < 0.001). Both groups had comparable mean
+height of 164. 3±cm and 166.1 ± cm, respectively (p = 0.077).
+
+3.1. Clinical History of the Hb-SS Subjects. Out of the 76
+participants, 6 (7.9%) had associated hypertension, only 1
+(1.3%) had diabetes, and 1(1.3%) had chronic kidney dis-
+ease (CKD). Fifty-three (69.7%) had a history of previous
+blood transfusion and 28 (36.8%) had a history of chronic
+(present/past/recurrent) leg ulcers. Nine (25.7%) out of the
+30 males had a previous history of priapism, mostly in the
+adolescent period. Sixty-three (82.9%) had at most 2 episodes
+of vasoocclusive (VOC) crisis in the year prior to the study,
+while 13 (17.1%) had 3 or more episodes over the past year.
+
+3.2. Lung Function Parameters of Hb-SS Compared to Non-
+SCD Controls. Five Hb-SS participants and 2 of the controls
+had poor spirometry tests (forceful blow duration less than
+3secs); thus their results were not included in the analysis.
+From Table 1, the mean FVC and FEV1% predicted of the Hb-
+SS patients were 72.6 ± 22.2% and 65.3 ± 20.6%, respectively,
+
+Advances in Hematology
+
+3
+
+Table 1: Demographic characteristics and lung function parameters of participants.
+
+Weight (kg)
+
+Hb-SS subjects
+Controls
+Height (cm)
+
+Hb-SS subjects
+Controls
+
+BMI
+
+Hb-SS subjects
+Controls
+Age (years)
+
+Hb-SS subjects
+Controls
+
+FVC % Predicted
+Study subjects
+Controls
+
+FEV1 % Predicted
+Study subjects
+Controls
+
+% Ratio (FEV1/FVC)
+
+Study subjects
+Controls
+
+N
+
+76
+76
+
+76
+76
+
+76
+76
+
+76
+76
+
+71
+74
+
+71
+74
+
+71
+74
+
+Mean
+
+59.00
+69.10
+
+164.30
+166.10
+
+21.80
+25.05
+
+33.75
+33.81
+
+72.63
+90.38
+
+65.32
+87.03
+
+75.64
+82.16
+
+Std. Deviation
+
+Minimum
+
+Maximum
+
+Sig.
+
+13.20
+14.50
+
+8.20
+8.24
+
+4.20
+4.77
+
+11.11
+9.81
+
+22.19
+11.85
+
+20.55
+12.84
+
+9.59
+6.28
+
+38.00
+46.00
+
+135.00
+150.00
+
+15.80
+17.00
+
+18.00
+18.00
+
+40.00
+53.00
+
+24.00
+50.00
+
+50.20
+67.50
+
+117.50
+115.00
+
+182.50
+190.00
+
+40.20
+39.00
+
+63.00
+61.00
+
+120
+114
+
+115.00
+115.00
+
+92.20
+100.00
+
+<0.001
+
+0.077
+
+<0.001
+
+0.970
+
+0.001
+
+0.001
+
+0.001
+
+Table 2: Relationship between FEV1, FVC percentage predicted values, and anthropometric variables of participants using Spearman’s rank
+correlation analysis.
+
+FEV1
+%Predicted
+
+FVC %
+Predicted
+
+Spearman’s rank
+
+Correlation
+Sig. (2-tailed)
+Spearman’s rank
+
+Correlation
+Sig. (2-tailed)
+
+Height
+(n=144)
+0.089
+
+0.287
+0.041
+
+70.627
+
+Weight
+(n=142)
+0.271
+0.001
+
+0.187
+0.026
+
+BMI
+(n=139)
+0.243
+0.004
+
+0.177
+0.037
+
+Age
+(145)
+0.071
+
+0.397
+0.108
+
+0.197
+
+compared to 90.4±11.9% and 87±12.8% among the controls
+(p < 0.001). Analysis showed that 53 (74.6%) and 43 (60.6%)
+of the Hb-SS participants had abnormal FEV1% and FVC%
+predicted, respectively (<80%).
+
+Table 2 showed that FEV1 and FVC% predicted values
+positively correlated with the age, height, weight, and BMI
+of the participants but these were not statistically significant
+except for weight and BMI (p<0.05). Gender was also
+significantly associated with participants FEV1% predicted
+(p=0.010).
+
+Logistic regression analysis however showed that age,
+height, gender, weight, and BMI did not significantly influ-
+ence the presence or absence of abnormal FEV1 and FVC%
+predicted (Table 3). Also, the odds of having abnormal FEV%
+and FVC% predicted among the cases were 11.7 and 13.2,
+respectively (Table 3).
+
+As shown in Table 4, 50(70.4%) of Hb-SS patients com-
+pared to 9(12.2%) of the controls had abnormal spirome-
+try outcome (defined as restrictive, obstructive, or mixed
+
+restrictive and obstructive defects; p < 0.001). The propor-
+tions of abnormal spirometry outcomes among the Hb-SS
+participants were restrictive (70%), obstructive (16%), and
+mixed defects (14%), while the controls all had restrictive
+defects only. The mean oxygen saturation was 94.0±1.9%
+on room air compared to 97±1.6% among the controls (p
+< 0.001). There was no significant difference between the
+mean oxygen saturation of Hb-SS participants with normal
+or abnormal spirometry outcome.
+
+3.3. Association between Laboratory Parameters and Spirom-
+etry Outcome of Hb-SS Participants. The mean steady-state
+haemoglobin of the Hb-SS participants was 8.1 ± 1.6g/dl with
+a range of 4.90 – 11.2 g/dl. The mean total WBC was elevated
+(10.1 ± 3.6 x 109/l) with a range of 3.4–26 x109/l. The mean
+platelet count was normal 341.4 ± 109.2 x109/l showing a wide
+range of 143-873 x 109/l. Mean blood urea was normal, 3.5 ± 1.6
+mmols/l with a mean creatinine of 55.6 ± 20.0 mmols/l. Mean
+
+4
+
+Advances in Hematology
+
+Table 3: Factors that influence abnormal FEV1 and FVC% predicted categories.
+
+P-value
+
+FEV1% Category
+Exp(B)
+(OR)
+0.952
+1.002
+1.175
+0.991
+0.573
+11.69
+0.17
+
+0.686
+0.982
+0.626
+0.643
+0.211
+<0.001
+0.913
+
+FVC% Category
+
+95% CI
+
+Lower
+0.751
+0.826
+0.614
+0.953
+0.239
+4.844
+
+Upper
+1.207
+1.216
+2.247
+1.03
+1.372
+28.246
+
+P-value
+
+0.321
+0.282
+0.245
+0.332
+0.202
+<0.001
+0.22
+
+Exp(B)
+(OR)
+0.885
+1.113
+1.475
+0.981
+0.564
+13.153
+<0.001
+
+95% CI
+
+Lower
+0.695
+0.915
+0.766
+0.945
+0.234
+5.139
+
+Upper
+1.127
+1.354
+2.841
+1.019
+1.361
+33.662
+
+Weight
+Height
+BMI
+Age
+Gender(1)
+Case-Control (1)
+Constant
+
+Table 4: Spirometry outcomes among participants.
+
+Spirometry
+results
+categorization
+
+Normal
+Abnormal
+Total
+
+Respondent Category
+
+Study subjects
+
+n (%)
+
+21 (29.60)
+50 (70.40)
+71 (100.00)
+
+Controls
+n (%)
+
+65 (87.80)
+9 (12.20)
+74 (100.00)
+
+P-value
+
+<0.001
+
+free plasma haemoglobin was elevated, 105.7 ± 53.4𝜇g/ml
+with 66 (91.7%) of the patients having values > 40 𝜇g/ml,
+indicative of intravascular haemolysis.
+
+From analysis, abnormal spirometry outcome was sig-
+nificantly associated with blood urea level (p=033) but not
+with serum creatinine (p=0.056). A positive correlation was
+observed between FEV1% predicted and haemoglobin level;
+R=0.239; p = 0.043 (Table 5). We also found that free plasma
+Hb levels > 40𝜇g/ml was significantly associated with FEV1%
+(p= 0.031). However when other laboratory factors were
+accounted for using linear multivariate regression analysis,
+none of the laboratory factors including Hb, urea, and
+free plasma Hb were significantly associated with FEV1%
+predicted. Comparing laboratory parameters among the
+Hb-SS participants with various spirometry defects, total
+platelet count appeared to be significantly lower in those
+with obstructive defects; p=0.034 (Table 6). Further post hoc
+analysis for pairwise comparison using Dunnett’s test showed
+that only obstructive and restrictive defects were nearly
+significantly different (p=0.05), suggesting a lower platelet
+count among patients with obstructive defects.
+
+Also, TRV, a noninvasive marker of elevated pulmonary
+artery systolic pressure showed a tendency to be compara-
+tively elevated in those with mixed restrictive and obstructive
+defect (p=0.056). However, there was no significant associa-
+tion between TRV and percentage predicted values of FEV1
+and FVC (Table 7).
+
+3.4. Spirometry Measurements and Associated Clinical Factors.
+Hb-SS participants with ≥ 3 sickle cell crisis in the past
+year had a lower mean FVC% predicted (65.9%) compared
+to a mean of 75.0% in those with ≤ 2 crisis in the past
+year (p=0.180). There were no significant differences between
+
+participants with or without history of chronic leg ulcer with
+regard to their FVC and FEV1% predicted values.
+
+4. Discussion
+4.1. Participants’ Demographic Characteristics. Generally,
+children as well as adults with sickle cell disease are believed
+to be of a lower average body weight and height than their
+unaffected peers [18–20]. A study by Oguntoye et al. in
+Nigeria reported that, until the age of 18, the trend in height
+and weight of children with sickle cell disease is identical to
+that of their unaffected peers but began to show significant
+differences after 18 years [21]. They also showed that the gap
+in anthropometric measurements between the two groups
+further widened with increasing age. On the other hand,
+some studies have found no significant height variation
+among SCD patients 18 years and above when compared to
+healthy controls, in fact reporting average or above average
+heights [22, 23]. The current study similarly showed that the
+Hb-SS subjects were comparable in height to the controls but
+had significantly lower body weight and BMI. The negative
+effect of sickle cell disease on growth and development,
+especially during the adolescence period, has been blamed
+for this variance; however, the role of nutrition cannot be
+overlooked [24]. Incidentally the average BMI of our Hb-
+SS participants (21.30) was comparable to that of the Hb-SS
+participants (21.80) in a US study by Klings et al. [9]. This
+could imply comparable nutritional status of the Ghanaian
+Hb-SS patients to that of the American cohort but improved
+holistic medical care of sickle cell patients in our part of the
+world, especially during early childhood, could also influence
+this pattern.
+
+4.2. Spirometry Parameters and Anthropometry of Partici-
+pants. The current study showed that measured lung vol-
+umes (FEV1 and FVC% predicted) were significantly lower
+in Hb-SS patients compared to the non-SCD controls and
+this is consistent with findings from previous studies [6, 22,
+25]. Age, gender, standing height, and weight are important
+determinants of lung function due to their significant correla-
+tion with Pulmonary Function Tests and this correlation has
+similarly been shown in our study [26]. With the established
+disparity in anthropometric parameters particularly weight,
+BMI, and sometimes height, it is believed that the observed
+
+Advances in Hematology
+
+5
+
+Table 5: Correlation between FEV1, FVC percentage predicted, and laboratory parameters using Spearman’s ranked correlation coefficient
+Rho.
+
+Laboratory indices
+
+Haemoglobin(g/dl)
+Total WBC
+Platelet
+Plasma Hb
+Urea
+Creatinine
+
+FEV1%
+Spearman’s Coefficient Rho
+
+0.244
+0.081
+0.155,
+- 0.108
+- 0.067
+- 0.039
+
+P-value
+0.043
+0.514
+0.208
+0.387
+0.568
+0.774
+
+FVC%
+Spearman’s Coefficient Rho
+
+0.200
+0.058
+0.010
+- 0.115
+- 0.113
+0.032
+
+Table 6: Comparisons of means of laboratory results and TRV with spirometry outcomes among Hb-SS subjects.
+
+Hemoglobin Level (g/dl)
+Total Neutrophil count (x 109/l)
+Platelet Count (x 109/l)
+Plasma Haemoglobin (ug/ml)
+Creatinine
+Urea
+FVC%
+FEV1%
+Freq of crisis/year
+TRV(m/s)
+
+Obstructive
+
+8.4±1.8
+8.5±3.2
+251.1±58.9
+94.8±46.8
+64.8±17.3
+3.1±0.5
+87.6 ±15.6
+61.8 ±12.3
+0.5±0.8
+2.4±0.3
+
+Spirometry Interpretation
+
+Restrictive
+
+7.9±1.6
+10.6±4.0
+366.6±103.1
+132.4±81.3
+57.8±22.8
+3.9±2.0
+61.4±11.4
+56.9±11.2
+1.5±1.3
+2.3±0.4
+
+Mixed
+7.3±2.0
+8.3±1.2
+
+308.4±87.8
+99.7±34.5
+61.7±28.0
+4.1±2.1
+57.3±11.6
+43.0±9.6
+1.1±0.9
+2.6±0.4
+
+Normal
+8.4±1.3
+10.3±3.3
+
+350.6±127...3
+115.9±83.3
+49.4±10.8
+2.9±0.6
+94.1±16.4
+88.1±18.4
+1.1±1.4
+2.2±0.4
+
+P-value
+0.100
+0.637
+0.938
+0.359
+0.393
+0.810
+
+P-value
+0.350
+0.413
+0.034
+0.699
+0.372
+0.203
+<0.001
+<0.001
+0.410
+0.056
+
+Table 7: Association between FEV1, FVC percentage predicted, and
+TRV values.
+
+TRV
+
+Normaln(%)
+
+Elevatedn(%)
+
+X2-value
+
+FEV1 % Predicted
+
+< 80%
+> 80%
+
+FVC % predicted
+
+< 80%
+> 80%
+
+36 (67.9)
+12(66.7)
+
+29(65.9)
+19(70.4)
+
+17(32.1)
+6(33.3)
+
+15(34.1)
+8(29.6)
+
+0.570
+
+0.452
+
+the presence of the disease predisposes to abnormal lung
+function. These suggest that reduced lung volumes in Hb-
+SS patients comparative to non-SCD controls may result
+from a combination of factors/complications of the disease
+and not merely due to anthropometric variance although
+the latter may be contributing to it. It can be inferred from
+this analysis that the mere presence of Hb-SS is a significant
+predictor of abnormal
+lung function. Some studies have
+reported diminished respiratory muscle strength in children
+and young adults with SCD which could also partly explain
+the lower lung volumes [28, 29].
+
+lower lung volumes in SCD patients is largely a result of this
+disparity and not necessarily pathological [27]. In addition,
+Miller and Sergeant proposed that, aside from the anthro-
+pometric variance, SCD patients have a relatively small chest
+wall compared to their body size (disproportionate chest wall
+growth) which is believed to partly contribute to the observed
+decrease in lung volumes [27]. The suggested reason for the
+disproportionate chest wall growth was repeated infarctions
+in the ribs, sternum, and vertebra that impair optimal skeletal
+growth and development.
+
+In the current study, however, multiple regression analysis
+showed that the significant variance in weight and BMI
+could not explain the observed wide differences in lung
+function measurements between the Hb-SS participants and
+the controls. Also the odds of having an abnormal FEV1
+and FVC% predicted in Hb-SS patients were about 12 and
+13 times, respectively, the risk in the healthy group meaning
+
+4.3. Prevalence of Abnormal Spirometry among Hb-SS Patients
+and Associated Factors. The study found that a significant
+proportion (70.4%) of the Hb-SS participants had abnormal
+spirometry outcome, with restrictive defect being predom-
+inant. In a US study by Klings et al., as much as 90%
+of the Hb-SS participants had abnormal
+lung function
+including 13% with impaired DLco [9]. Our proportion was
+comparatively lower and this could be due to our inability
+to test for diffusion capacity (DLco). Similar to our study,
+Dosunmu and colleagues in Nigeria found that 68% of
+the SCD participants had abnormal spirometry outcome, of
+which 53% had restrictive defects, 3.7% obstructive defects
+and 11% with mixed defects [8]. These consistent results
+more prove the predominance of restrictive defects among
+adults with sickle cell disease [6–9, 30, 31]. Abnormal lung
+function, particularly, restrictive defects in Hb-SS, has been
+shown to be more prevalent in those with a severe disease
+
+6
+
+Advances in Hematology
+
+pattern evident by recurrent vasoocclusive crisis and ACS,
+lower haemoglobin, raised markers of haemolysis, chronic
+leg ulcers, renal dysfunction, and raised pulmonary arterial
+pressures/pulmonary hypertension [5, 6, 16, 32].
+
+A prospective study by Aquino and colleagues reported
+a significant correlation between the severity and extent
+of parenchymal abnormalities on chest CT-scan and the
+number of prior ACS [33]. Maioli and colleagues in Brazil
+also found an association between a history of ACS and
+restrictive defects on spirometry [34]. In our study, we
+were unable to obtain a definite history of ACS due to
+diagnostic challenges that existed but observed that patients
+with increased frequency of crisis (3 or more in the past
+year), largely VOC in nature, had lower FVC % predicted
+values when compared to those with 2 or less episodes of
+sickle cell crisis in a year (65.9% predicted versus 75.0%
+predicted, respectively; p=0.180). This supports the notion
+that recurrent VOC crisis could cause ischaemic damage
+to the lung parenchyma with fibrosis via the release of
+inflammatory mediators from the damaged endothelium and
+hypoxic lung and hence the decrease in lung volumes [35,
+36]. Obstructive defects, however, have been reported to be
+more prevalent among children with SCD in whom asthma-
+like symptoms and airway hyperreactivity could occur [37,
+38]. The study by Klings et al. [9] and Dosunmu et al. [8]
+found low prevalence of obstructive defects in the adult SCD
+population studied. In contrast, Vendramini and colleagues
+[25] however reported a high prevalence (31%) of obstruction
+and airway hyperreactivity among adults with SCD. Our
+proportion of adult SCA patients with obstructive defects was
+16% which was similar to 19.5% observed by Williams et al.
+[6]. The causes of obstruction in SCD are more complex and
+quite unclear but thought to include inflammation, effects of
+hypoxia, and oxidative stress on the bronchial tree [25].
+
+Sickle cell vasculopathy is a complication in SCD
+attributed to the toxic effects of products of intravascular
+haemolysis and has been linked to the development of
+pulmonary hypertension, chronic leg ulcers, chronic kidney
+disease, and chronic lung complications in sickle cell patients
+[39, 40]. Similar to the above observation, our analysis
+showed that free plasma Hb levels above 40ug/ml, evident
+of intravascular haemolysis, were significantly associated
+with abnormal FEV1% predicted (< 80% predicted) and this
+was consistent with findings by Sylvester et al. who found
+an association between FEV1% predicted and markers of
+haemolysis among SCD patients [41]. We also found that
+steady-state haemoglobin showed a positive correlation with
+FEV1% predicted but Williams and colleagues rather found
+an association between steady-state Hb and FVC % predicted;
+p < 0.001 [6, 42]. However on linear multivariate analysis, Hb
+or free plasma haemoglobin significantly predicted abnormal
+FEV1%.
+
+Our study also showed a significant association between
+abnormal spirometry outcome and blood urea level (p =
+0.033) with a rising trend of creatinine level in those with
+abnormal spirometry (p = 0.056). These observations support
+suggestions from previous studies of a possible common aeti-
+ological link between chronic lung disease and kidney disease
+in SCD, likely through sickle cell associated vasculopathy [9].
+
+It has been proposed that activated white blood cells and
+platelets promote vascular inflammation and vessel damage.
+They are therefore likely to play a role in initiating sickle
+cell vasculopathy and hence the development of perivascular
+lung parenchymal fibrosis with effects on measured lung
+volumes [35]. Dosunmu and colleagues reported a negative
+correlation between total WBC and platelet counts with the
+FVC% predicted among the studied SCD cohort [8]. We
+observed that the mean platelet count had a tendency to
+be lower among those with obstructive defects (p =0.05).
+Studies by Gladwin et al. and Anthi et al. have shown
+that SCD patients with raised pulmonary artery systolic
+pressure usually show a restrictive pattern on spirometry
+[16, 43]. We have shown that TRV had a tendency to be
+higher in Hb-SS patients with spirometry defects, particu-
+larly in those with mixed defects (TRV of 2.6 ± 0.4; p =
+0.056).
+
+In conclusion, the current study has shown that lung
+volumes are significantly lower in Hb-SS patients when
+compared to non-SCD controls. The mere presence of the
+disease strongly predicts abnormal lung function. With the
+high prevalence of lung function abnormalities among Hb-
+SS patients, one may suggest that the former could itself be
+considered a marker of disease severity and hence periodic
+screening with spirometry may be necessary to allow for
+patient categorization and further management.
+
+Data Availability
+The data used to support the findings of this study are
+available from the corresponding author upon request.
+
+Conflicts of Interest
+The authors declared no conflicts of interest.
+
+Authors’ Contributions
+Yvonne Dei-Adomakoh and Jane Afriyie- Mensah designed
+the research, data interpretation, and manuscript writing.
+Martin Adadey, Audrey Forson, and Joseph Acquaye helped
+in the interpretation of data and made a major contribution
+in the writing of the manuscript. Thomas Ndanu contributed
+to data interpretation, statistical analysis, and manuscript
+writing. All authors read and approved the final version of
+the manuscript.
+
+Acknowledgments
+The authors thank all the patients who participated in this
+study.
+
+References
+[1] A. Gray, E. N. Anionwu, S. C. Davies, and M. Brozovic, “Patterns
+of mortality in sickle cell disease in the United Kingdom,”
+Journal of Clinical Pathology, vol. 44, no. 6, pp. 459–463, 1991.
+
+Advances in Hematology
+
+7
+
+[2] A. N. Thomas, C. Pattison, and G. R. Serjeant, “Causes of death
+in sickle-cell disease in Jamaica,” British Medical Journal, vol.
+285, no. 6342, pp. 633–635, 1982.
+
+[3] S. H. Embury, R. P. Hebbel, N. Mohandas, and M. H. Steinberg,
+Sickle Cell Anaemia: Basic Principles and Clinical Practice, Raven
+Press, New York, NY, USA, 1995.
+
+[4] M. H Steinberg, F. Barton, O. Castro, C. H Pegelow, S. K
+Ballas, A. Kutlar et al., “Effect of hydroxyurea on mortality and
+morbidity in adult sickle cell anemia: risks and benefits up to 9
+years of treatment,” JAMA, vol. 289, no. 13, pp. 1645–1651, 2003.
+[5] J. M. Knight-Madden, T. S. Forrester, N. A. Lewis, and A.
+Greenough, “The impact of recurrent acute chest syndrome on
+the lung function of young adults with sickle cell disease,” Lung,
+vol. 188, no. 6, pp. 499–504, 2010.
+
+[6] K. Williams, “Lung function and inflammation in adult sickle
+cell disease in a west indian sickle cell cohort,” Journal of
+Pulmonary & Respiratory Medicine, vol. 02, no. 06, pp. 129–135,
+2012.
+
+[7] A. E. Fawibe, P. O. Oluboyo, and A. K. Salami, “Sickle cell
+chronic lung disease among young adult Nigerians,” West
+African Journal of Medicine, vol. 29, no. 1, pp. 30–33, 2010.
+
+[8] A. O. Dosunmu, R. A. Akinola, J. A. Onakoya et al., “Pattern of
+chronic lung lesions in adults with sickle cell disease in Lagos,
+Nigeria,” Caspian Journal of Internal Medicine, vol. 4, no. 4, pp.
+754–758, 2013.
+
+[9] E. S. Klings, D. F. Wyszynski, V. G. Nolan, and M. H. Stein-
+berg, “Abnormal pulmonary function in adults with sickle cell
+anemia,” American Journal of Respiratory and Critical Care
+Medicine, vol. 173, no. 11, pp. 1264–1269, 2006.
+
+[10] D. Powars, J. A. Weidman, T. Odom-Maryon et al., “Sickle cell
+chronic lung disease: Prior morbidity and the risk of pulmonary
+failure,” Medicine (United States), vol. 67, no. 1, pp. 66–76, 1988.
+[11] C. S. Fonseca, C. A. Ara´ujo-Melo, R. M. Carvalho, J. Barreto-
+Neto, J. G. Ara´ujo, and R. Cipolotti, “Lung function in Patients
+with sickle cell anaemia,” Revista Paulista de Pediatria, vol. 29,
+no. 1, pp. 85–90, 2011.
+
+[12] D. R. Powars, L. S. Chan, A. Hiti, E. Ramicone, and C. Johnson,
+“Outcome of sickle cell anemia: A 4-decade observational study
+of 1056 patients,” Medicine, vol. 84, no. 6, pp. 363–376, 2005.
+
+[13] A. A. Kassim, A. B. Payne, M. Rodeghier, E. A. Macklin, R. C.
+Strunk, and M. R. DeBaun, “Low forced expiratory volume is
+associated with earlier death in sickle cell anemia,” Blood, vol.
+126, no. 13, pp. 1544–1550, 2015.
+
+[14] American Thoracic Society, “Standardization of spirometry,
+1994 update,” American Journal of Respiratory and Critical Care
+Medicine, vol. 152, no. 3, pp. 1107–1136, 1995.
+
+[15] M. Cheitlin, J. Alpert, W. Armstrong et al., “ACC/AHA guide-
+lines for the clinical application of echocardiography: executive
+summary,” Journal of the American College of Cardiology, vol. 29,
+no. 4, pp. 862–879, 1997.
+
+[16] M. T. Gladwin, V. Sachdev, M. L. Jison et al., “Pulmonary
+hypertension as a risk factor for death in patients with sickle
+cell disease,” The New England Journal of Medicine, vol. 350, no.
+9, pp. 886–895, 2004.
+
+[17] D. Nebor, A. Bowers, M.-D. Hardy-Dessources et al., “Fre-
+quency of pain crises in sickle cell anemia and its relationship
+with the sympatho-vagal balance, blood viscosity and inflam-
+mation,” Haematologica, vol. 96, no. 11, pp. 1589–1594, 2011.
+
+[18] M. T. Ashcroft, G. R. Serjeant, and P. Desai, “Heights, weights,
+and skeletal age of
+jamaican adolescents with sickle cell
+Anaemia,” Archives of Disease in Childhood, vol. 47, no. 254, pp.
+519–524, 1972.
+
+[19] F. E. Lesi, “Anthropometric status of sickle cell anaemia patients
+in Lagos, Nigeria,” Nigerian Medical Journal, vol. 9, no. 3, pp.
+337–342, 1979.
+
+[20] K. Ohene-frimpong and M. H. Steinberg, “Clinical aspects of
+sickle cell anaemia in adults and children,” in Disorders of
+Hemoglobin, H. M. Steinberg, B. G. Forget, D. R. Higgs, and R.
+L. Nagel, Eds., pp. 611–710, Cambridge University Press, USA,
+2001.
+
+[21] A. P. Oguntoye, Anthropometric status of sickle cell diseases
+
+[dissertation, thesis], University of Lagos, 1981.
+
+[22] A. E. T. Sandip Meghnad Hulke, “Pulmonary function in adults
+with sickle cell disease,” International Journal Of Biological and
+Medical Research, vol. 2, no. 3, pp. 723–726, 2011.
+
+[23] F. A. Oreduga and K. O. Savage, “Anthrometric findings in
+Nigerian children with sickle cell disease,” Pediatric Dentistry
+Journal, vol. 24, pp. 321–325, 2002.
+
+[24] H. Nikhar, G. Shinde, and S. Meshram, “An anthropometric and
+hematological comparison of sickle cell disease children from
+rural and urban areas,” Indian Journal of Human Genetics, vol.
+18, no. 1, p. 40, 2012.
+
+[25] E. C. Vendramini, E. O. Vianna, I. De Lucena ˆAngulo, F. B. De
+Castro, J. A. B. Martinez, and J. Terra-Filho, “Lung function
+and airway hyperresponsiveness in adult patients with sickle cell
+disease,” The American Journal of the Medical Sciences, vol. 332,
+no. 2, pp. 68–72, 2006.
+
+[26] A. Miller, “Lung function testing: selection of reference values
+and interpretative strategies,” American Review of Respiratory
+Disease, vol. 146, pp. 1368-1369, 1992.
+
+[27] G. J. Miller and G. R. Serjeant, “An assessment of lung volumes
+and gas transfer in sickle-cell anaemia,” Thorax, vol. 26, no. 3,
+pp. 309–315, 1971.
+
+[28] B. A. Ong, J. Caboot, A. Jawad et al., “Respiratory muscle force
+and lung volume changes in a population of children with sickle
+cell disease,” British Journal of Haematology, vol. 163, no. 1, pp.
+112–117, 2013.
+
+[29] K. A. Dougherty, J. I. Schall, A. J. Rovner, V. A. Stallings, and
+B. S. Zemel, “Attenuated maximal muscle strength and peak
+power in children with sickle cell disease,” Journal of Pediatric
+Hematology/Oncology, vol. 33, no. 2, pp. 93–97, 2011.
+
+[30] E. J. van Beers, M. N. van der Plas, E. Nur et al., “Exercise toler-
+ance, lung function abnormalities, anemia, and cardiothoracic
+ratio in sickle cell patients,” American Journal of Hematology,
+vol. 89, no. 8, pp. 819–824, 2014.
+
+[31] J. N. Oko-Ose, V. Iyawe, E. Egbagbe, and M. Ebomoyi, “Lung
+function tests in sickle-cell patients in benin city,” ISRN Pul-
+monology, vol. 2012, Article ID 658095, 5 pages, 2012.
+
+[32] J. S. Afriyie-Mensah, Y. A. Dei-Adomakoh, A. Forson et al.,
+“Clinical and laboratory predictors of elevated TRV in sickle cell
+anaemia,” Journal of Hematology and Oncology Research, pp. 29–
+38.
+
+[33] S. L. Aquino, G. Gamsu, J. V. Fahy et al., “Chronic pulmonary
+disorders in sickle cell disease: Findings at thin- section CT,”
+Radiology, vol. 193, no. 3, pp. 807–811, 1994.
+
+[34] M. C. P. Maioli, A. R. Soares, R. Bedirian, U. D. Alves, C. de Lima
+Marinho, and A. J. Lopes, “Relationship between pulmonary
+and cardiac abnormalities in sickle cell disease: Implications for
+the management of patients,” Revista Brasileira de Hematologia
+e Hemoterapia, vol. 38, no. 1, pp. 21–27, 2016.
+
+[35] O. S. Platt, “Sickle cell anemia as an inflammatory disease,” The
+Journal of Clinical Investigation, vol. 106, no. 3, pp. 337-338, 2000.
+
+8
+
+Advances in Hematology
+
+[36] J. V. Weil, O. Castro, A. B. Malik, G. Rodgers, D. R. Bonds,
+and T. P. Jacobs, “Pathogenesis of lung disease in sickle
+hemoglobinopathies,” American Review of Respiratory Disease,
+vol. 148, no. 1, pp. 249–256, 1993.
+
+[37] K. P. Sylvester, R. A. Patey, P. Milligan et al., “Pulmonary
+function abnormalities in children with sickle cell disease,”
+Thorax, vol. 59, no. 1, pp. 67–70, 2004.
+
+[38] M. A. Leong, C. Dampier, L. Varlotta, and J. L. Allen, “Airway
+hyperreactivity in children with sickle cell disease,” Journal of
+Pediatrics, vol. 131, no. 2, pp. 278–285, 1997.
+
+[39] R. P. Rother, L. Bell, P. Hillmen, and M. T. Gladwin, “The clinical
+sequelae of intravascular hemolysis and extracellular plasma
+hemoglobin: a novel mechanism of human disease,” The Journal
+of the American Medical Association, vol. 293, no. 13, pp. 1653–
+1662, 2005.
+
+[40] K. P. Potoka and M. T. Gladwin, “Vasculopathy and pul-
+monary hypertension in sickle cell disease,” American Journal
+of Physiology-Lung Cellular and Molecular Physiology, vol. 308,
+no. 4, pp. L314–L324, 2015.
+
+[41] K. P. Sylvester, S. R. Desai, A. U. Wells et al., “Computed
+tomography and pulmonary function abnormalities in sickle
+cell disease,” European Respiratory Journal, vol. 28, no. 4, pp.
+832–838, 2006.
+
+[42] M. H. Steinberg, “Predicting clinical severity in sickle cell
+anaemia,” British Journal of Haematology, vol. 129, no. 4, pp.
+465–481, 2005.
+
+[43] A. Anthi, R. F. Machado, M. L. Jison et al., “Hemodynamic and
+functional assessment of patients with sickle cell disease and
+pulmonary hypertension,” American Journal of Respiratory and
+Critical Care Medicine, vol. 175, no. 12, pp. 1272–1279, 2007.
+
+
+**************************************************************************************************
