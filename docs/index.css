@@ -1,0 +1,144 @@
+/* template material:
+font-family: 'Exo', sans-serif;
+background-color: #FDF9FA;
+color: #5D1F5A;
+emphasis: #B0B0B0;
+*/
+
+body {
+    margin: 0;
+    background-color: #FDF9FA;
+    color: #5D1F5A;
+    border: 1px solid blue;
+    height: 750px;
+}
+
+.headerContainer {
+    height: 7vw;
+    width: 30vw;
+    
+    margin-left: 5vw;
+    margin-top: 20px;
+}
+
+#navToggle {
+    color: #5D1F5A;
+    background-color: #B0B0B0;
+    float: left;
+    height: 7vw;
+    width: 10vw;
+}
+
+#mercury {
+    color: white;
+    background-color: #5D1F5A;
+    float: left;
+    height: 7vw;
+    width: 20vw;
+}
+
+#navObject {
+    font-size: 5vw;
+    text-align: center;
+}
+#mercObject {
+    font-size: 4vw;
+    padding-top: 1vw;
+    text-align: center;
+    font-family: 'Exo', sans-serif;
+}
+
+#navToggle:hover {
+    opacity: 0.8;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.QS {
+    float: right;
+    height: 60px;
+    width: 60px;
+    background-color: #5D1F5A;
+    color: white;
+    font-size: 40px;
+    margin-right: 10vw;
+    margin-top: -50px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+    font-family: 'Exo';
+    border-radius: 200px;
+}
+
+.QS:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.banner {
+    margin-top: 200px;
+    width: 70vw;
+    font-size: 40px;
+    font-family: 'Exo', sans-serif;
+    margin-left: 10vw;
+}
+
+.seeHow {
+    padding: 10px;
+    margin-left: 10vw;
+    width: 20vw;
+    font-family: 'Exo', sans-serif;
+    text-align: center;
+    background-color: #B0B0B0;
+    border: 2px solid #5D1F5A;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.seeHow:hover {
+    border: 2px solid #5D1F5A;
+    background-color: #5D1F5A;
+    color: white;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.seeHow:active {
+    margin-top: 1px;
+}
+
+@media screen and (min-width: 1000px) {
+    .headerContainer {
+        height: 55px;
+    }
+    #navToggle {
+        height: 55px;
+        width: 20%;
+    }
+    #mercury {
+        height: 55px;
+        width: 80%;
+    }
+    #navObject {
+        font-size: 30px;
+        padding-top: 5px;
+    }
+    #mercObject {
+        font-size: 30px;
+        padding-top: 10px;
+    }
+    .banner {
+        width: 600px;
+    }
+    .seeHow {
+        width: 150px;
+    }
+}
+
