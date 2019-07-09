@@ -1,0 +1,459 @@
+American Journal of Ophthalmology Case Reports 10 (2018) 264–267
+
+Contents lists available at ScienceDirect
+
+American Journal of Ophthalmology Case Reports
+
+journal homepage: www.elsevier.com/locate/ajoc
+
+Brief Report
+Adrenocorticotropic hormone analogue as novel treatment regimen in
+ocular cicatricial pemphigoid
+Yael Sharona,∗, David S. Chua,b
+a Metropolitan Eye Research and Surgery Institute, Palisades Park, NJ, USA
+b Institute of Ophthalmology and Visual Science, New Jersey Medical School, Rutgers University, Newark, NJ, USA
+
+T
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Adrenocorticotropic hormone
+Ocular cicatricial pemphigoid
+Clinical outcome
+
+Purpose: To report the clinical outcome of a patient with ocular cicatricial pemphigoid, treated with adreno-
+corticotropic hormone gel.
+Observations: A 75-year-old female with a biopsy proven ocular cicatricial pemphigoid (OCP) presented with
+bilateral conjunctival inﬂammation, fornix shortening, subepithelial ﬁbrosis and corneal scarring. The patient
+was previously treated with topical steroids, topical cyclosporine and lubricating drops, and had undergone
+several amniotic membrane transplants due to recurrent corneal erosions. Once OCP diagnosis was established,
+the patient was started on oral corticosteroids (60 mg daily). In order to wean the patient oﬀ from systemic
+steroids, other immunomodulatory agents had been tried, including mycophenolate mofetil (1000 mg twice
+daily) and methotrexate (up to 25 mg weekly). However, none of these agents adequately controlled the ocular
+surface inﬂammation, and the patient experienced bilateral progressive cicatrization and corneal decompensa-
+tion, as well as the development of side eﬀects from the systemic corticosteroids, methotrexate and mycophe-
+nolate mofetil therapies. Treatment with twice weekly subcutaneous adrenocorticotropic hormone (ACTH) gel
+was initiated, along with tapering of systemic corticosteroids. During the 19 months treatment period, the pa-
+tient demonstrated signiﬁcant improvement in the ocular surface inﬂammation, visual acuity was stable and no
+signiﬁcant adverse eﬀects were observed. Systemic corticosteroids dosage was successfully reduced from 10 mg/
+day to none at last follow up.
+Conclusions and importance: ACTH gel has shown to be an eﬀective and safe treatment option for chronic, re-
+fractory and progressive ocular inﬂammatory disease. To the best of our knowledge, this is the ﬁrst case report of
+a patient with OCP, treated successfully with ACTH gel. This case report may encourage ophthalmologists to
+employ ACTH gel in the management of OCP.
+
+1. Introduction
+
+Ocular cicatricial pemphigoid (OCP) is a speciﬁc entity in a group of
+chronic inﬂammatory mucocutaneous blistering conditions, called
+mucous membrane pemphigoid.1 The disease is characterized by scar-
+ring and shrinkage of the conjunctiva as well as in extraocular mucous
+membranes, such as the oral mucosa, esophagus, larynx, and skin.1,2
+The disease commonly aﬀects females with an average age of onset of
+65 years.3 OCP is diagnosed by linear antibody and complement de-
+position at the epithelial basement membrane of the involved mucosa.
+The earliest clinical ﬁnding is a chronic, recurrent, papillary con-
+junctivitis. Recurrent attacks of conjunctival inﬂammation can lead to
+destruction of goblet cells, lacrimal gland ductule obstruction, en-
+tropion, trichiasis and corneal abrasions, vascularization and ulcera-
+tion. Progressive cicatrization is common, as well as remissions and
+
+exacerbations periods with therapy.
+
+Treatment for the majority of OCP patients utilizes systemic im-
+munomodulatory therapies in order to prevent cicatrization. Systemic
+treatments include corticosteroids, and steroid-sparing agents, such as
+cyclophosphamide, mycophenolate mofetil, azathioprine, methotrexate
+(MTX), and diaminodiphenylsulfone (dapsone).4–7 Usually, mono-
+therapy with corticosteroids, along with its adverse events, is not suf-
+ﬁcient to produce long-term remission, nor able to achieve an adequate
+level of sustained immunosuppression in OCP patients. Furthermore,
+the later the stage of disease upon initiation of therapy, the more likely
+it will progress and not respond to therapy. However, the use of steroid-
+sparing medications also carries potential risks and side eﬀects. Cy-
+clophosphamide can cause leukopenia, anemia, bone marrow suppres-
+sion, and bladder carcinoma.2 Common side eﬀects of mycophenolate
+mofetil are nausea, diarrhea, abdominal pain, fever and anemia. MTX
+
+∗ Corresponding author.
+
+E-mail address: yael@mersieye.com (Y. Sharon).
+
+https://doi.org/10.1016/j.ajoc.2018.03.018
+Received 29 September 2017; Received in revised form 12 March 2018; Accepted 19 March 2018
+Available online 20 March 2018
+2451-9936/ © 2018 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+Downloaded for Robert Gerovski (robert.gerovski@quidditysolutions.com) at ClinicalKey Global Guest Users from ClinicalKey.com by Elsevier on July 25, 2018.
+
+For personal use only. No other uses without permission. Copyright ©2018. Elsevier Inc. All rights reserved.
+
+Y. Sharon, D.S. Chu
+
+American Journal of Ophthalmology Case Reports 10 (2018) 264–267
+
+may cause hepatotoxicity, pneumonitis, pulmonary ﬁbrosis, pancyto-
+penia, and malignancy. In some patients with reluctant disease, im-
+munomodulatory treatments, such as intravenous immunoglobulin
+(IVIg) and rituximab, have shown some success.8,9
+
+Adrenocorticotropic hormone (ACTH) is a member of a group of
+molecules called melanocortins (MCs), derived from the precursor
+proopiomelanocortin (POMC) and endogenously produced in the hy-
+pothalamic-pituitary pathway. ACTH acts primarily to stimulate and
+regulate steroids production. ACTH has recently been shown to have
+anti-inﬂammatory eﬀects beyond endogenous steroid production.10,11
+ACTH gel was approved by the United States Food and Drug
+Administration (FDA) in 1952 for a variety of autoimmune and in-
+ﬂammatory conditions. ACTH gel is indicated for severe acute and
+chronic allergic and inﬂammatory ocular processes including keratitis,
+iridocyclitis, diﬀuse posterior uveitis and choroiditis, optic neuritis,
+chorioretinitis and anterior segment inﬂammation.12 It also has shown
+eﬃcacy in various systemic inﬂammatory diseases including systemic
+lupus erythematosus,13 multiple sclerosis,14 nephrotic syndrome,15 in-
+fantile spams,16 dermatomyositis, and polymyositis.17
+
+To the best of our knowledge, treatment of ocular cicatricial pem-
+phigoid with ACTH gel has never been reported. In this case report, we
+describe the clinical course and outcome of a patient with ocular ci-
+catricial pemphigoid, treated with ACTH gel.
+
+2. Case report
+
+A 75-year-old woman was referred in April, 2015 due to chronic
+conjunctival redness, foreign body sensation, irritation and blurred vi-
+sion in both eyes. She had previously been treated with topical steroids,
+topical cyclosporine (0.05%) and frequent use of lubricating eye drops.
+The patient had undergone amniotic membrane transplants in both eyes
+due to persistent corneal epithelial defects. She has a history of open-
+angle glaucoma, exudative age-related macular degeneration and cat-
+aract surgery in her right eye. The best corrected visual acuity (BCVA)
+was counting ﬁngers (CF) in both eyes at the time of initial presenta-
+tion. Slit-lamp examination revealed trichiasis, conjunctival injection,
+fornix shortening and subconjunctival ﬁbrosis, as well as corneal scar-
+ring in both eyes. Serology testing was performed in order to exclude
+other infectious and autoimmune diseases and was negative. Ocular
+cicatricial pemphigoid (OCP) was conﬁrmed using conjunctival biopsy
+with direct immunoﬂuorescence testing of the conjunctiva. Based on
+the clinical ﬁndings, her disease was graded as stage 3.18
+
+The patient was started on oral corticosteroids (prednisone 60 mg
+daily). Following initiation of oral corticosteroids, there was interval
+improvement in the ocular surface inﬂammation in both eyes. However,
+the patient developed multiple side eﬀects attributed to systemic ster-
+oids including nervousness, moon facies, fatigue, ecchymoses, joint
+pain, swelling, and muscle weakness. In order to wean the patient oﬀ
+from systemic corticosteroids, initiation of immunomodulatory therapy
+was planned.
+
+Mycophenolate mofetil was started (1000 mg twice daily), however,
+the patient had discontinued treatment after two months due to severe
+fatigue and persistent conjunctival inﬂammation after gradually ta-
+pering systemic corticosteroids dose. Methotrexate (MTX) was then
+initiated (15 mg weekly) and systemic corticosteroids were slowly ta-
+pered. After three months of MTX therapy, recurrence of bilateral
+conjunctival inﬂammation was observed and corneal ulcer had devel-
+oped in the left eye. Methotrexate dose was increased to 30 mg weekly
+and the corneal ulcer was treated with topical antibiotics until resolved.
+However, the patient was still experiencing active conjunctival in-
+ﬂammation, recurrent corneal epithelial defects and systemic side ef-
+fects from increasing MTX dose. These side eﬀects included anemia,
+poor appetite, nausea, abdominal pain, skin rash, hair loss, recurrent
+urinary tract
+infections and was hospitalized due to pneumonia.
+Adalimumab and rituximab were suggested as alternative options,
+however, were not initiated because of denial for coverage for OCP by
+
+Fig. 1. Anterior segment photograph of both eyes under ACTH gel treatment. Right eye
+with corneal haze and vascularization (A), as well as inferior fornix shortening and
+subepithelial scarring, without active inﬂammation (B). Left eye with corneal scarring
+and vascularization (C), inferior fornix shortening and subepithelial scarring, without
+active inﬂammation (D).
+
+her insurance.
+
+The patient was started on twice weekly subcutaneous H.P. Acthar®
+Gel (repository corticotropin injection; Mallinckrodt Pharmaceuticals,
+St. Louis, MO), (80 units/ml), in June, 2016. On ocular examination,
+BCVA was CF in her right eye and hand motion (HM) in her left eye.
+Slit-lamp examination revealed active disease, characterized by con-
+junctival injection in both eyes. Following initiation of ACTH gel, MTX
+dose was gradually decreased, as well as the systemic corticosteroids.
+The patient remained under adequate control with ACTH gel and MTX.
+The conjunctiva remained scarred, but was no longer inﬂamed (Fig. 1).
+Following 6 months of treatment with ACTH gel, the patient had cat-
+aract surgery and penetrating keratoplasty (PKP) in her left eye, due to
+corneal scarring and vascularization that aﬀected her vision.
+
+On March, 2017, nine months after ACTH gel was started, the pa-
+tient stopped treatment for 3 months (due to loss of coverage) and
+immediately ﬂared up upon treatment cessation. Visual acuity in the
+left eye has decreased from 20/100 to CF and conjunctival inﬂamma-
+tion was observed in both eyes. Corneal graft rejection and ulceration
+were noted in the left eye (as shown in Fig. 2), both of which subsided
+after resuming ACTH gel, but had left a scar in the corneal graft. PKP
+was later performed in the right eye as well, due to visually signiﬁcant
+corneal scarring. On the last follow-up, after 19 months of treatment
+with ACTH gel, the BCVA was CF in the right eye and 20/200 in the left
+eye, no signs of inﬂammation were observed and corneal grafts were
+stable in both eyes. MTX was maintained on 25 mg weekly dose, and
+
+Fig. 2. Anterior segment photograph of the left eye, previously underwent penetrating
+keratoplasty with clear corneal graft, and on ACTH gel treatment (A). The patient stopped
+ACTH gel for 3 months and immediately ﬂared up upon treatment cessation, with corneal
+graft rejection and ulceration (B).
+
+265
+
+Downloaded for Robert Gerovski (robert.gerovski@quidditysolutions.com) at ClinicalKey Global Guest Users from ClinicalKey.com by Elsevier on July 25, 2018.
+
+For personal use only. No other uses without permission. Copyright ©2018. Elsevier Inc. All rights reserved.
+
+Y. Sharon, D.S. Chu
+
+American Journal of Ophthalmology Case Reports 10 (2018) 264–267
+
+was well tolerated. The patient did not develop any side eﬀects to ACTH
+gel treatment, and is being continued on ACTH gel and MTX regimen,
+with good compliance and suﬃcient control of the disease.
+
+3. Discussion
+
+OCP is a devastating autoimmune blistering disease that frequently
+involves the conjunctiva and causes progressive scarring. Although the
+exact mechanism remains unknown, the pathogenesis includes circu-
+lating autoantibodies that bind to antigens within the basement mem-
+brane and activate the complement cascade, with further recruitment of
+inﬂammatory cells and cytokine secretion. The release of cytokines
+results in cytotoxic destruction of the conjunctival membrane, bulla
+formation and ﬁbroblast activation with later progression to mucosal
+scarring. In the conjunctiva, recurrent inﬂammation causes loss of
+goblet cells and obstruction of lacrimal gland ductules, leading to
+aqueous and mucous tear abnormalities. These tear abnormalities,
+along with conjunctival scarring at the eyelid margin and mechanical
+trauma from eyelid changes, further cause corneal epithelial damage.19
+The clinical course and severity of OCP is variable. Without treatment,
+the disease progresses in up to 75% of patients.20 Treatment of OCP is
+challenging; topical and subconjunctival agents are used only as an
+adjunctive measure with systemic immunomodulatory treatments,
+since they are ineﬀective in controlling and halting disease progres-
+sion.6,21
+
+ACTH induces cortisol production as well as stimulating anti-in-
+ﬂammatory processes by targeting melanocortin receptors present on
+immune cells.10 Melanocortin receptors are expressed on a range of
+immune cells throughout the body, including T cells, macrophages, B
+cells, monocytes, neutrophils, and mast cells. Studies addressing the
+anti-inﬂammatory eﬀects of α-melanocyte-stimulating hormone (α-
+MSH), a part of the melanocortin family, focus on the suppressive eﬀect
+of the peptide on expression of pro-inﬂammatory cytokines.22
+
+H.P Acthar Gel is an injectable formulation consisting of ACTH
+analogue. Since there are no guidelines regarding the recommended
+dosage for treatment of ocular diseases, we use a dose of 80 units/ml,
+administered subcutaneously twice weekly, as indicated for other FDA
+approved systemic diseases.12 Although ACTH gel is approved by the
+FDA for a wide range of ophthalmologic indications, it is rarely used for
+either of these indications, due to a lack of data and the high cost of
+treatment. Possible adverse eﬀects are related primarily to its ster-
+oidogenic action and include increased susceptibility to infection or
+reactivation of latent infection, ﬂuid retention, altered electrolyte bal-
+ance, increase in blood glucose, systemic hypertension, behavioral and
+mood changes, weight gain, and cushingoid features, among others.12
+In our case, the patient experienced multiple side eﬀects from systemic
+corticosteroids, yet did not develop any of these side eﬀects while on
+ACTH gel treatment.
+
+intolerant
+
+refractory and/or
+
+In the current case, we reported the clinical course of a patient with
+progressive OCP,
+im-
+munomodulatory agents. Initiation of ACTH gel treatment resulted in
+signiﬁcant improvement of the conjunctival inﬂammation as well as of
+the patients' symptoms. ACTH gel provided adequate control and the
+disease remained inactive while the systemic corticosteroids dose was
+successfully tapered. A ﬂare-up that occurred during treatment was
+attributed to ACTH gel treatment cessation, and resolved upon re-
+suming treatment.
+
+to several
+
+4. Conclusions
+
+OCP can be challenging to treat, due to persistent inﬂammatory
+processes that cause progressive scarring and subsequent complica-
+tions. Treatment is further complicated by the development of side ef-
+fects to various therapies. According to our experience with ACTH gel
+treatment in a patient with OCP for more than a year, it may play a role
+in the management of patients with OCP. Better understanding the
+
+266
+
+physiological and pharmacological mechanisms of action of ACTH gel
+and involvement of the melanocortin system, is necessary in order to
+establish its role. ACTH gel may be repurposed for new indications in
+the ophthalmology ﬁeld, including OCP, as it appears to be safe and can
+be used as long-term treatment option for patients with chronic ocular
+inﬂammatory diseases.
+
+Patient consent
+
+The study and data accumulation were carried out with approval
+
+from the appropriate Institutional Review Board (IRB).
+
+Funding
+
+Financial interest: This study was funded in part by Mallinckrodt
+
+Pharmaceuticals as a medical writing grant (#3840).
+
+Conﬂicts of interest
+
+The following authors have no ﬁnancial disclosures: Dr. Yael
+
+Sharon.
+
+Dr. David S. Chu serves as a consultant
+
+for Mallinckrodt
+Pharmaceuticals, AbbVie, Aldeyra Therapeutics, Allakos Inc., and
+Santen Pharmaceuticals.
+
+Authorship
+
+All authors attest that they meet the current ICMJE criteria for
+
+Authorship.
+
+Acknowledgements
+
+None.
+
+References
+
+1. Schmidt E, Zillikens D. Pemphigoid diseases. Lancet. 2013;381(9863):320–332.
+
+http://dx.doi.org/10.1016/S0140-6736(12)61140-4.
+
+2. Kirzhner M, Jakobiec FA. Ocular cicatricial pemphigoid: a Review of clinical features,
+
+immunopathology, diﬀerential diagnosis, and current management. Semin
+Ophthalmol. 2011;26(4-5):270–277. http://dx.doi.org/10.3109/08820538.2011.
+588660.
+
+3. Foster CS. Cicatricial pemphigoid. Trans Am Ophthalmol Soc. 1986;84:527–663
+
+http://www.ncbi.nlm.nih.gov/pubmed/3296406 Accessed August 10, 2017.
+
+4. Thorne JE, Woreta FA, Jabs DA, Anhalt GJ. Treatment of ocular mucous membrane
+
+pemphigoid with immunosuppressive Drug therapy. Ophthalmology.
+2008;115(12):2146–2152. http://dx.doi.org/10.1016/j.ophtha.2008.08.002 e1.
+
+5. Saw VPJ, Dart JKG, Rauz S, et al. Immunosuppressive therapy for ocular mucous
+
+membrane pemphigoid strategies and outcomes. Ophthalmology.
+2008;115(2):253–261. http://dx.doi.org/10.1016/j.ophtha.2007.04.027 e1.
+
+6. Neﬀ AG, Turner M, Mutasim DF. Treatment strategies in mucous membrane pem-
+phigoid. Therapeut Clin Risk Manag. 2008;4(3):617–626 http://www.ncbi.nlm.nih.
+gov/pubmed/18827857 Accessed September 16, 2017.
+
+7. Queisi MM, Zein M, Lamba N, Meese H, Foster CS. Update on ocular cicatricial
+
+pemphigoid and emerging treatments. Surv Ophthalmol. 2016;61(3):314–317. http://
+dx.doi.org/10.1016/j.survophthal.2015.12.007.
+
+8. Sami N, Letko E, Androudi S, Daoud Y, Foster CS, Ahmed AR. Intravenous im-
+
+munoglobulin therapy in patients with Ocular–Cicatricial pemphigoid.
+Ophthalmology. 2004;111(7):1380–1382. http://dx.doi.org/10.1016/j.ophtha.2003.
+11.012.
+
+9. Foster CS, Chang PY, Ahmed AR. Combination of rituximab and intravenous im-
+
+munoglobulin for recalcitrant ocular cicatricial pemphigoid. Ophthalmology.
+2010;117(5):861–869. http://dx.doi.org/10.1016/j.ophtha.2009.09.049.
+
+10. Montero-Melendez T. ACTH: the forgotten therapy. Semin Immunol.
+
+2015;27(3):216–226. http://dx.doi.org/10.1016/j.smim.2015.02.003.
+
+11. Getting SJ. Targeting melanocortin receptors as potential novel therapeutics.
+
+Pharmacol Ther. 2006;111(1):1–15. http://dx.doi.org/10.1016/j.pharmthera.2005.
+06.022.
+
+12. Full Prescribing Information HP. Acthar Gel (Repository Corticotropin Injection). 2015;
+2015www.acthar.com/pdf/acthar-pi.pdf https://www.acthar.com/ Accessed August
+8, 2017.
+
+13. Fiechtner JJ, Montroy T. Treatment of moderately to severely active systemic lupus
+
+erythematosus with adrenocorticotropic hormone: a single-site, open-label trial.
+Lupus. 2014;23(9):905–912. http://dx.doi.org/10.1177/0961203314532562.
+
+14. Simsarian J, Saunders C, Smith M. Five-day regimen of intramuscular or
+
+Downloaded for Robert Gerovski (robert.gerovski@quidditysolutions.com) at ClinicalKey Global Guest Users from ClinicalKey.com by Elsevier on July 25, 2018.
+
+For personal use only. No other uses without permission. Copyright ©2018. Elsevier Inc. All rights reserved.
+
+Y. Sharon, D.S. Chu
+
+American Journal of Ophthalmology Case Reports 10 (2018) 264–267
+
+subcutaneous self-administered adrenocorticotropic hormone gel for acute exacer-
+bations of multiple sclerosis: a prospective, randomized, open-label pilot trial. Drug
+Des Dev Ther. 2011;5:381. http://dx.doi.org/10.2147/DDDT.S19331.
+
+15. Madan A, Mijovic-Das S, Stankovic A, Teehan G, Milward AS, Khastgir A. Acthar gel
+in the treatment of nephrotic syndrome: a multicenter retrospective case series. BMC
+Nephrol. 2016;17:37. http://dx.doi.org/10.1186/s12882-016-0241-7.
+
+16. Baram TZ, Mitchell WG, Tournay A, Snead OC, Hanson RA, Horton EJ. High-dose
+corticotropin (ACTH) versus prednisone for infantile spasms: a prospective, rando-
+mized, blinded study. Pediatrics. 1996;97(3):375–379 http://www.ncbi.nlm.nih.gov/
+pubmed/8604274 Accessed June 27, 2017.
+
+17. Levine T. Treating refractory dermatomyositis or polymyositis with adrenocortico-
+
+tropic hormone gel: a retrospective case series. Drug Des Dev Ther. 2012;6:133.
+http://dx.doi.org/10.2147/DDDT.S33110.
+
+18. Foster CS. Cicatricial pemphigoid. Trans Am Ophthalmol Soc. 1986;84:527–663
+
+http://www.ncbi.nlm.nih.gov/pubmed/3296406 Accessed March 11, 2018.
+
+19. Ahmed M, Zein G, Khawaja F, Foster CS. Ocular cicatricial pemphigoid: pathogen-
+esis, diagnosis and treatment. Prog Retin Eye Res. 2004;23(6):579–592. http://dx.doi.
+org/10.1016/j.preteyeres.2004.05.005.
+
+20. Mondino BJ. Cicatricial pemphigoid and erythema multiforme. Ophthalmology.
+1990;97(7):939–952 http://www.ncbi.nlm.nih.gov/pubmed/2199891 Accessed
+August 10, 2017.
+
+21. Elder MJ, Bernauer W, Leonard J, Dart JK. Progression of disease in ocular cicatricial
+pemphigoid. Br J Ophthalmol. 1996;80(4):292–296 http://www.ncbi.nlm.nih.gov/
+pubmed/8703876 Accessed August 10, 2017.
+22. Brzoska T, Luger TA, Maaser C, Abels C, Böhm M. α-Melanocyte-Stimulating hor-
+mone and related tripeptides: biochemistry, antiinﬂammatory and protective eﬀects
+in vitro and in vivo, and future perspectives for the treatment of immune-mediated
+inﬂammatory diseases. Endocr Rev. 2008;29(5):581–602. http://dx.doi.org/10.
+1210/er.2007-0027.
+
+Downloaded for Robert Gerovski (robert.gerovski@quidditysolutions.com) at ClinicalKey Global Guest Users from ClinicalKey.com by Elsevier on July 25, 2018.
+
+For personal use only. No other uses without permission. Copyright ©2018. Elsevier Inc. All rights reserved.
+
+267
+
+
+**************************************************************************************************
