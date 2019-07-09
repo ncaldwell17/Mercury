@@ -74,10 +74,11 @@ def iterate_through(pdf_list):
         print("please enter in a valid response")
     """
 
-
+# allows for input of specific file, then conversion
+# remember that it adds a random space at the end that messes up the proper path
 def extract_pdf_text_from_file():
     os.system('open .')
-    tarfile = input('Copy and paste your target PDF"s path here')
+    tarfile = input('Copy and paste your target PDFs path here')
     a_text = convert_pdf_to_txt(tarfile)
     return a_text
 
@@ -119,7 +120,3 @@ def main():
         iterate_through(pdf_path_list)
     if user_preference == 'q':
         exit()
-
-
-
-main()
