@@ -7,16 +7,14 @@ emphasis: #B0B0B0;
 
 body {
     margin: 0;
-    background-color: #FDF9FA;
+    background-image: url(images/background1.jpeg);
+    background-size: cover;
     color: #5D1F5A;
-    height: 1200px;
-    border-bottom: 1px solid blue;
 }
 
 .headerContainer {
     height: 7vw;
     width: 30vw;
-    
     margin-left: 5vw;
     margin-top: 20px;
 }
@@ -80,9 +78,15 @@ body {
     transition: 1s;
 }
 
+.foWrapper {
+    margin-top: 100px;
+}
+.bpWrapper {
+   margin-top: 100px;
+}
+
+
 .banner {
-    margin-top: 200px;
-    width: 70vw;
     font-size: 40px;
     font-family: 'Exo', sans-serif;
     margin-left: 10vw;
@@ -91,7 +95,7 @@ body {
 .seeHow {
     padding: 10px;
     margin-left: 10vw;
-    width: 20vw;
+    width: 30vw;
     font-family: 'Exo', sans-serif;
     text-align: center;
     background-color: #B0B0B0;
@@ -120,6 +124,7 @@ body {
     height: 300px;
     width: 80%;
     overflow-x: auto;
+    overflow-y: hidden;
     white-space: nowrap;
 }
 
@@ -130,11 +135,46 @@ body {
     width: 250px;
     border: 1px solid black;
     display: inline-block;
+    background-size: contain;
+    background-position: center;
+    color: white;
+}
+.blogIcon:hover {
+    height: 276px;
+    width: 246px;
+    border: 2px solid #5D1F5A;
+    cursor: pointer;
+}
+
+.blogIcon2 {
+    height: 280px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 250px;
+    display: inline-block;
+    background-size: contain;
+    background-position: center;
+}
+
+.inProgress  {
+    height: 70px;
+    width: 300px;
+    background-color: #B0B0B0;
+    margin: auto;
+    margin-top: 40%;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 33px;
+    padding-left: 20px;
+    padding-right: 20px;
+    visibility: hidden;
 }
 
 
 
-@media screen and (min-width: 1000px) {
+
+@media screen and (min-width: 1300px) {
     .headerContainer {
         height: 55px;
     }
@@ -155,10 +195,35 @@ body {
         padding-top: 10px;
     }
     .banner {
-        width: 600px;
+        width: 500px;
     }
+    
     .seeHow {
         width: 150px;
     }
+    .main {
+        width: 800px;
+        float: left;
+    }
 }
+@media screen and (min-width: 1500px) {
+    
+    .demo {
+        height: 680px;
+        width: 690px;
+        border: 3px solid #5D1F5A;
+        float: right;
+        margin-top: 70px;
+        margin-right: 50px;
+        border-radius: 20px;
+        background-color: #FDF9FA;
+    }
+    
+    .inProgress {
+        visibility: visible;
+    }
+    
+    
+}
+
 
