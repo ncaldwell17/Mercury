@@ -1,0 +1,160 @@
+/* template material:
+font-family: 'Exo', sans-serif;
+background-color: #FDF9FA;
+color: #5D1F5A;
+emphasis: #B0B0B0;
+*/
+
+body {
+    margin: 0;
+    width: 100%;
+    background-color: #FDF9FA;
+    color: #5D1F5A;
+    height: 750px;
+    font-family: avenir;
+    margin-left: 2vw;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+
+code {
+    background-color: lightgray;
+    padding: 0 5px;
+    font-size: 18px;
+}
+
+.postWrapper {
+    width: 750px;
+    margin: auto;
+}
+
+.datetime {
+    font-size: 16px;
+}
+
+.title {
+    font-size: 50px;
+    border-bottom: 5px solid #5D1F5A;
+    margin-right: 2vw;
+    font-family: exo;
+}
+
+.author {
+    margin-top: 15px;
+    font-size: 18px;
+    font-family: exo;
+}
+
+.filed {
+    margin-top: 5px;
+    font-size: 18px;
+    font-family: exo;
+}
+
+.filed a {
+    font-weight: bold;
+    color: #5D1F5A;
+    cursor: pointer;
+}
+
+.filed a:hover {
+    color: red;
+    transition:  .5s;
+}
+
+.socialWrapper {
+    height: 50px;
+    width: 220px;
+    margin-top: -60px;
+    float: right;
+    margin-right: 1vw;
+}
+
+.fa {
+    width: 20px;
+    margin-right: 10px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #5D1F5A;
+    padding: 20px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.paragraph {
+    margin-top: 10px;
+    font-size: 18px;
+    text-indent: 50px;
+    margin-right: 1vw;
+    line-height: 35px;
+}
+
+.paragraph a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.paragraph a:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.blankSpace {
+    height: 300px;
+}
+
+.listWrapper {
+    border-top: 5px solid #5D1F5A;
+    border-bottom: 5px solid #5D1F5A;
+    margin-top: 20px;
+}
+
+.listWrapper li {
+    margin-top: 10px;
+}
+
+
+.listTitle {
+    margin-top: 5px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.codeBlock {
+    margin-top: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.red {
+    color: firebrick;
+}
+
+.green {
+    color: forestgreen;
+}
+
+.blue {
+    color: blue;
+}
+
+.output {
+    color: forestgreen;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.photoDisplay {
+    height: 180px;
+    background-size: contain;
+    background-position: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: 5px solid #5D1F5A;
+}

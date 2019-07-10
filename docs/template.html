@@ -8,17 +8,77 @@
         <!-- CSS -->
             <link rel="stylesheet" href="bp.css">
             <link href="https://fonts.googleapis.com/css?family=Exo&display=swap" rel="stylesheet">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <!-- JS -->
             <script src="bp.js"></script>
     </head>
     <body>
-        <div class="title"></div>
-    
-    
-    
-    
-    
-    
-    
+        <div class="postWrapper">
+            <div class="datetime">July 10th, 2019 @ 3:00PM CST</div>
+            <div class="title">Implementing a basic NER model through off-the-shelf methods in Python</div>
+            <div class="author">By: Noah Caldwell-Gatsos</div>
+            <div class="filed">Filed Under:
+                <a href="#">Implementation Walkthroughs</a>,
+                <a href="#">Phase One</a>
+            </div>
+            <div class="socialWrapper">
+                <div class="fa fa-facebook"></div>
+                <div class="fa fa-twitter"></div>
+                <div class="fa fa-google"></div>
+            </div>
+            <div class="paragraph" style="margin-top: 50px;"><b>N</b>amed <b>E</b>ntity <b>R</b>ecognition, or NER for short, is the use of natural language processing techniques to identify particular types of words and label them within a text. At Quiddity Solutions, we use this technique to identify factors like drug names, types of proceedures, patient outcomes, and related information in clinical papers. Sounds amazing, right? However, this kind of processing is really, really complicated to teach a computer how to do. We make use of machine learning algorithms to help our system learn and identify new labels, complex relationships across sentences, and develop custom identification proceedures for each branch of medicine we want the system to work with. These custom labels, known as fine-grained named entity recognition, require a lot of computational resources to achieve. That doesn't sound useful for the average analyst. Here, we want to discuss some simple implementations of NER that are already available off-the-shelf online.</div>
+            <div class="paragraph">First, I want to introduce the Python package <a href="https://spacy.io/">SpaCy</a>. This is a neat module that handles all the complicated training, identification, and other NLP tasks in the background so you don't have to worry about it. If you're someone who wants to get a better sense of what's going on under the hood, SpaCy essentially follows the normal procedures of defining a statistical language model - creating an algorithm and free parameters, training on a large corpora, testing accuracy, and refining their model. For further investigation, I'd recommend going to SpaCy's NLP class documentation <a href="https://spacy.io/api/doc">here</a>. Right now, SpaCy's NLP class supports several named entities like 'Geopolitical Entity', 'Person', 'Date', 'Event', and so on. Their system also allows you to create your own entities and train their model to recognize them. In this post, I'll concentrate on simply putting the initial layout together and visualizing the results.</div>
+            <div class="listWrapper">
+                <div class="listTitle">Workflow</div>
+                <ol>
+                    <li>Understanding the datatypes SpaCy's methods can work with.</li>
+                    <li>Creating a function that calls the <i>nlp()</i> method.</li>
+                    <li>Stacking a visualization method on top of the nlp method using <i>render()</i>.</li>
+                    <li>Having SpaCy automatically wrap the ouput as an HTML w/ CSS file and display the visualization.</li>
+                </ol>
+            </div>
+            <div class="paragraph">That all seems pretty simple. SpaCy's a great beginner's tool with NLP and NER because it already does so much for you. In a later post, I'll get into how these limited options might hinder more advanced projects - like the NER engine that powers Quiddity Solutions' technology - but for simple tasks, SpaCy does well. Let's dive in with:</div>
+            <div class="paragraph"><b>Understand the datatypes involved with SpaCy.</b> The easiest access point to SpaCy's NLP functionality is just by calling <code>nlp()</code> and assigning its outputs to a variable. However, <code>nlp()</code>'s kind of picky - it can only accept a specific datatype as an argument: a string. Therefore, whenever you run <code>nlp()</code> on something, you have to give it a string or it won't work properly. Let's see an example on a random piece of text from Reuters:</div>
+            <div class="codeBlock">
+                <code><span class="blue">doc</span> = nlp(<span class="red">'Federal Reserve Chairman Jerome Powell on Wednesday set the stage for the first U.S. interest rate cut in a decade later this month, pledging to ‘act as appropriate’ to defend an economic expansion threatened by trade disputes and a global slowdown.'</span>)</code>
+            </div>
+            <div class="paragraph" style="text-indent: 0;">Now, running print on this code won't seem to do much - it'll just output the same sentence to you without quotations.</div>
+            <div class="codeBlock">
+                <code class="displayCode">print(doc)</code>
+            </div>
+            <div class="codeBlock">
+                <code>Federal Reserve Chairman Jerome Powell on Wednesday set the stage for the first U.S. interest rate cut in a decade later this month, pledging to ‘act as appropriate’ to defend an economic expansion threatened by trade disputes and a global slowdown.</code>
+            </div>
+            <div class="paragraph" style="text-indent: 0;">Even so, behind the scenes, some complex stuff is happening. Because we've converted the string into a doc object using <code>nlp()</code>, we can now call all kinds of useful functions to mess with its output. <b>NOTE:</b> I'm using an additional package called <code>pretty print</code> that just formats everything neater than Python's default printing function, so don't worry if your output doesn't look 100% like mine - it's more important that you get an output at all. If you want to use that style, call it with the method <code>pprint()</code> after importing it above.</div>
+            <div class="codeBlock">
+                <code>pprint(
+                    [
+                    (X.text, X.label_) <span class="green">for</span> X in <span class="blue">doc</span>.ents
+                    ]
+                    )</code>
+            </div>
+            <div class="output">Output:</div>
+            <div class="codeBlock">
+                <code>[('Federal Reserve', 'ORG'),<br>
+&#8195;('Jerome Powell', 'PERSON'),<br>
+ &#8195;('Wednesday', 'DATE'),<br>
+ &#8195;('first', 'ORDINAL'),<br>
+ &#8195;('U.S.', 'GPE'),<br>
+ &#8195;('a decade later this month', 'DATE')]</code>
+            </div>
+            <div class="paragraph">Now onto the second and third stages of our experiment: <b>Creating a function that houses <code>nlp()</code> and calling a method to visualize the output.</b> Just create a simple function below that you can run to achieve everything. In this, I'm going to use several additional functions. The first, <code>displacy()</code> is SpaCy's visualization function. I'll show the output of the visualization following this code.</div>
+            <div class="codeBlock">
+                <code>def visualize_ner(<span class="blue">a_string</span>):<br>
+                &#8198;&#8198;&#8198;&#8198;visualization = displacy.render((<span class="green">str</span>(nlp(<span class="blue">a_string</span>)),<br>
+&#8198;&#8198;&#8198;&#8198;# <i>indicates that I want to visualize entities</i><br>
+&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;style=<span class="red">"ent"</span>)<br>&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;&#8198;<br>
+visualization = visualizer_ner(<span class="blue">doc</span>)
+                </code>
+            </div>
+            <div class="photoDisplay" style="background-image: url(/images/blog/bp001img1.png)"></div>
+            <div class="paragraph">This example omits a couple of extra details that can't be expressed in code really well. The first, is that I ran this program on a Jupyter Notebook that allowed me to display this with all the colorful styling. Even if you don't want to run this in a Jupyter Notebook, <code>displacy()</code> will still output this as a neatly designed and wrapped HTML file complete with in-document CSS. All you have to do is store that output in a variable and write it to a file somewhere in your directory. Then, just double click on the html file and it will bring up the stylized visualization.</div>
+            <div class="paragraph">This was a very, very simple implementation and walkthrough of how to get started using SpaCy. In future posts, I'm going to go through my design process that I used to help me create a custom NER model for Quiddity Solutions, the base content of whichh I started with SpaCy. For now, just know that if you manage to get ahold of a single string that you want to identify the entities in it, you can just use these simple commands to produce and visualize some outputs. I hope you found this easy to manage and helpful, and leave comments below or through QS's email so we can help out further.</div>
+        </div>
+        <div class="blankSpace"></div>
     </body>
 </html>
