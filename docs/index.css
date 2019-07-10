@@ -9,8 +9,8 @@ body {
     margin: 0;
     background-color: #FDF9FA;
     color: #5D1F5A;
-    border: 1px solid blue;
-    height: 750px;
+    height: 1200px;
+    border-bottom: 1px solid blue;
 }
 
 .headerContainer {
@@ -113,6 +113,26 @@ body {
 .seeHow:active {
     margin-top: 1px;
 }
+
+
+.blogWrapper {
+    margin-left: 10vw;
+    height: 300px;
+    width: 80%;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.blogIcon {
+    height: 280px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 250px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+
 
 @media screen and (min-width: 1000px) {
     .headerContainer {
