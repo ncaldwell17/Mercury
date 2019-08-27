@@ -196,7 +196,7 @@ backface-visibility: hidden;
 #firstPhoto {
     height: 350px;
     margin-top: 50px;
-    background-image: url(/images/codeBackground.png);
+    background-image: url(images/codeBackground.png);
     background-size: contain;
 }
 
@@ -236,7 +236,7 @@ backface-visibility: hidden;
     width: 80%;
     height: 100%;
     margin: auto;
-    background-image: url(/images/spacy.png);
+    background-image: url(images/spacy.png);
     background-size: contain;
 }
 
