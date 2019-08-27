@@ -49,6 +49,13 @@ body a:hover {
     animation-name: fade-in;
 } 
 
+div {
+-webkit-backface-visibility: hidden;
+-moz-backface-visibility: hidden;
+-ms-backface-visibility: hidden;
+backface-visibility: hidden;
+}
+
 #topMain {
     height: 550px;
     width: 100%;
