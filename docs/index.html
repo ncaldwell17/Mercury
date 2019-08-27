@@ -1,69 +1,142 @@
 <!DOCTYPE html>
 <html>
-
+    <title>Quiddity Solutions' Mercury</title>
     <head>
+        <meta name="description" content="Something">
+        
         <!-- Meta Tags  -->
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- CSS -->
             <link rel="stylesheet" href="index.css">
-            <link href="https://fonts.googleapis.com/css?family=Exo&display=swap" rel="stylesheet">
+        <!-- insert font here --> 
+            <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+            <link href='https://fonts.googleapis.com/css?family=PT+Sans&display=swap' rel='stylesheet'>
+            <link href="https://fonts.googleapis.com/css?family=News+Cycle&display=swap" rel="stylesheet">        
+        <!-- Social Media icons --> 
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <!-- JS -->
             <script src="index.js"></script>
+        <!-- Twitter Card --> 
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:site" content="@ncaldwellgatsos">
+        <meta name="twitter:creator" content="@noahcaldwell">
+        <meta name="twitter:title" content="Quiddity Solutions"/> 
+        <meta name="twitter:description" content="Welcome to Quiddity Solutions' Mercury Project Landing Page."/>
+        <meta name="twitter:image:src" content="###"/>
     </head>
     
+    
     <body>
-        <div class="headerContainer">
-            <div id="navToggle">
-                <div id="navObject">&#9776;</div>
-            </div>
-            <div id="mercury">
-                <div id="mercObject">Mercury</div>
-            </div>
-        </div>
-        <div class="QS">QS</div>
-        
-        <div class="main">
-            <div class="foWrapper">
-                <div class="banner">Make keeping up-to-date manageable again.</div>
-                <div class="seeHow">Find out how</div>
-            </div>
-
-            <div class="bpWrapper">
-                <div class="banner">See what we're working on now:</div>
-                <div class="blogWrapper">
-                    <a href="template.html">
-                    <div class="blogIcon" style="background-image: url(images/blog/bp001front.png)"></div></a>
-                    <a href="template.html">
-                    <div class="blogIcon" style="background-image: url(images/blog/bp001front.png)"></div></a>
-                    <a href="template.html">
-                    <div class="blogIcon" style="background-image: url(images/blog/bp001front.png)"></div></a>
-
+        <svg id="fader">
+            <div id="main">
+                <div id="topMain">
+                    <div id="header">
+                        <div id="logo">QS</div>
+                        <div id="links">
+                            <div class="aLink">Blog</div>
+                            <div class="aLink">Demos</div>
+                            <div class="aLink">Data</div>
+                            <div class="aLink">About</div>
+                        </div>
+                    </div>
+                    <div id="title">An Overview of Our System</div>
                 </div>
+                <div id="contentMain">
+                    <div class="someContent">
+                        <div class="leftHalf">
+                            <div class="subtitle">Phase One: Discovery  Engine</div>
+                            <div class="intro">Mimicking, improving, and automating the natural information acquisition of medical professionals is our goal. Here's how we do it.</div>
+                        </div>
+                        <div class="rightHalf">
+                            <p class="textContent">We need to acquire the clinical text that doctors routinely consult when they learn about state-of-the-art treatments and procedures. Most of these documents are freely available online through subscription services that are commonly used among doctors. Obviously, the quality of these documents is of paramount importance. To guarantee that each document we use to train and improve our model is of the highest quality, we use the number of citations a report has received as an easy metric  of its reliability and create a threshold. Documents that pass this threshold will be integrated into a massive training corpora we will use in the next step.</p>
+                            <p class="textContent">Most clinical text documents are in the form of PDFs. Google has a unique PDF-to-text extraction service that allows us to convert all useful information to plain text. This text is combined to create a single mammoth text corpus that is used as the training base for the NER model discussed in the next section. Typical preprocessing strategies found in off-the-shelf Python packages such as NLTK and SpaCy are used to filter out noise in the training corpora. </p>
+                        </div>
+                    </div>
+                    <div class="mfTitle">Future Features:</div>
+                    <div class="moreFeatures">Allowing each medical professional to set up their own ‘RSS-feed’ of publications and documents they would like to see and giving them relevant feedback about their reading choices in addition to our curated material. We also plan on improving our submission qualities for papers used to train and improve the model, to begin allowing the option of including more experimental procedures. </div>
+                    <div id="firstPhoto"></div>
+                    <div class="largeSubtitle">Phase Two: Self-Annotating Data Synthesizer</div>
+                    <div class="secondPhaseContent">As discussed in an accompanying blog <a href=“https://medium.com/@ncaldwellgatsos/the-chicken-and-the-egg-paradox-of-named-entity-recognition-and-how-to-solve-it-f4a31528d78d”>post</a>, the main technical challenge to our design was the lack of consistent, formatted, and labeled data to train the NER model. This is a reoccurring problem within most approaches to Natural Language Processing and the only examples defined so far were applied to general fields like mainstream news analysis and other ‘low-intensity’ source material that could be trained from general examples of human language. Instead, we needed to create a custom solution to suit our goals, with the added benefit of creating an application that could allow the machine system to generalize and adapt beyond the constraints we gave it.</div>
+                    <div class="secondPhaseContent">We took inspiration from a 2014 paper by several researchers from Harvard University, who described an unsupervised model to annotate clinical text. The benefit of unsupervised models is that they are able to create their own system for ‘reading’ the text without the need of expensive or highly-trained annotators doing so for the machine. Their approach necessitated the use of a ‘Unified Medical Language System’ or UMLS that is paired with the text corpus to annotate. The labels of the UMLS were co-opted to form the backbone of the unsupervised system (i.e. sleep apnea is paired with the semantic identifier ‘medical condition’. Obviously, the synthesizer’s task is more complicated than simply matching the words from the UMLS to the text. As we describe in the post: <a href=“https://medium.com/@ncaldwellgatsos/the-unique-challenge-of-working-with-clinical-text-in-nlp-c8bd96130f27”>The Challenges of Working with Clinical Text Data in NLP</a>, clinical text contains a number of semantic ambiguities that make analysis difficult. </div>
+                    <div class="secondPhaseContent">Disambiguation is the chief task of this phase in the model. Many of the words identified in the corpus lack a concept-unique identifier that allows the system to assign it a label beyond a reasonable doubt. Normalizing the results, or disambiguating their meaning and allowing the system to pick up on the semantic significance, is the paradigm we use to distinguish between lexical modifiers that can distort the ability of the machine to achieve this. In addition, it is necessary for the model to pick up on the exact n in the n-grams in each unique mention to determine the correct window size of the phrase.</div>
+                    <div class="someContent" style="height: 500px; margin-top: 100px;">
+                        <div class="leftHalf">
+                            <div id="thirdPhasePhoto"></div>
+                        </div>
+                        <div class="rightHalf">
+                            <div class="subtitle3">Phase Three: Named Entity Recognition</div>
+                            <div class="textContent" style="color: black; text-indent: 25px; margin-top: 25px;">The NER Model takes advantage of a number of useful developments in the field of NLP in the past three years. To enable the system to track and correctly identify the right words in our text corpora, we built a neural probabilistic model capable of running on TensorFlow to vectorize each of the words in our training corpus and derive each word’s perplexity. Then, with the trained unsupervised model discussed in Phase Two, we matched the disambiguated labels with the word vectors - allowing our system to create a dual learning heuristic to identify word features. As a result, our model learns what words are similar to each other through their position in the text by analyzing a number of dimensions and possible permutations, and then matches this result to the label derived in problem one. This unique approach to machine learning circumvents the difficulties encountered by many systems in high-intensity environments like clinical text data.</div>
+                        </div>
+                    </div>
+                    <div class="mfTitle" style="margin-top: 0px;">Future Features:</div>
+                    <div class="moreFeatures">The accuracy level of older continuous bag-of-words models can continue to be improved. We would like to experiment with using pre-trained word embeddings in systems like BERT that have been developed in the past year to improve our NER model’s various metrics. The main issue is that BERT is primarily used for general language tasks and not in high-intensity environments. What we would like to take advantage of are specialized pre-trained word embeddings like Sci-BERT that are specifically designed to handle clinical text. Through this kind of transfer learning, we hope to further improve our model.
+                    </div>
+                    <div class="largeSubtitle">Phase Four: Summarization Using Pointer Generator Networks & Attention</div>
+                    <div class="secondPhaseContent">The most experimental aspect of our application is text summarization using neural networks. Part of our approach is inspired by Abigail See, a researcher specializing in unsupervised text-summarization whose research can be found <a href=“http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html”>here</a>. There are two forms of summarization - highlighting, and reworking. Highlighting is essentially what we did in Phase Three, collecting all of the relevant information and assigning it labels. Our system needs to go a step further and create new information from the text it is given. As a result, it needs to be able to connect information across sentences using attention. Attention is a difficult metric to get right - as described by Dr. See in her research. You need to be able to correctly weight each aspect that you want the machine learning model to focus on when you’re having it create summaries of your text. Happily, we expect to be able to make use of the prior two stages to be able to leverage the identified ‘important’ entities selected by the Named Entity Recognizer and Data Synthesizer. As a result, our machine learning model will not suffer from the two issues outlined by Dr. See: 1) summaries reproducing factual details inaccurately and 2) detail repetition. </div>
+                    <div class="smallSubtitle">Technical Details</div>
+                    <div class="secondPhaseContent">The issue with sequence-to-sequence models with attention is that is difficult for the system to memorize what words it’s working with. Thus, it’s prevented from recovering the original word after the information has passed through several layers of matrix computation. As a result, if word w has a poor word embedding (i.e. it’s clustered with completely unrelated words), w is completely indistinguishable from any other word. <b style="color: white;">This is where our model is unique. Because the word embeddings for all of the rare words that often appear in clinical are isolated by the data synthesizer and improved through the Named Entity Recognizer, they are assigned a unique signifier within the model that allows the features of the word to be preserved through various layers of computation. </b>. The use of pointers - a hybrid network that allows the system to chose to copy words from the source via pointing while retaining the ability to generate words from the fixed vocabulary - enables our model to further improve its recall ability.
+                    </div>
+                    <div class="someContent" style="margin-top: 100px;">
+                        <div class="leftHalf">
+                            <div class="subtitle">Phase Five: Graph  Database Warehousing</div>
+                            <div class="intro">Graph databases are a novel method of data storage that not only allows a system to react 5X faster than relational databases, but can also begin interpreting relationships in the data by itself.</div>
+                        </div>
+                        <div class="rightHalf" style="background-image: url(/images/neo4j.png); background-size: contain; margin-top: 25px;">
+                        </div>
+                    </div>
+                    <div class="someContent" style="height: 500px; margin-top: 100px;">
+                        <div class="leftHalf">
+                            <div id="sixthPhasePhoto"></div>
+                        </div>
+                        <div class="rightHalf">
+                            <div class="subtitle3">Phase Six: Price Matching</div>
+                            <div class="textContent" style="color: black; text-indent: 25px; margin-top: 25px;">The main value of our model goes beyond simple annotations, summarizations, and novel interpretations of complex text data. Our system is also equipped to match universal codes from insurers to proceedures, drug names, and extraneous data. As a result, a medical professional will be able to use our system to take in a variety of information in any clinical white paper and immediately associate it with its relevant price data. This will equip doctors with the ability to compare and contrast the financial burden of each of their proceedures in a heartbeat, taking far less time and energy than analyzing each potential proceedure and allowing the professional to devote more time to their patients' needs.</div>
+                        </div>
+                    </div>
+                </div>
+                <div id="bottomMain"></div>
             </div>
-        </div>
-
-        <div class="demo">
-        
-            <div class="inProgress">Demo  Coming Soon!</div>
-        
-        </div>
+        </svg>
+        <script>
+            fadeInPage();
+            
+            //fade-in, fade-out 
+            document.addEventListener('DOMContentLoaded', function() {
+                if (!window.AnimationEvent) { return; }
+                var anchors = document.getElementsByTagName('a');
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </body> 
+            for (var idx=0; idx<anchors.length; idx+=1) {
+                if (anchors[idx].hostname !== window.location.hostname) {
+                continue;
+                }
+            anchors[idx].addEventListener('click', function(event) {
+            var localPath = '/wp-content/uploads/'
+            
+            if (anchors[idx].hostname !== window.location.hostname || anchors[idx].pathname === window.location.pathname || anchors[idx].pathname.indexOf(localPath) !== -1) {
+              //continue;
+            }
+            var fader = document.getElementById('fader'),
+                anchor = event.currentTarget;
+            
+            var listener = function() {
+                window.location = anchor.href;
+                fader.removeEventListener('animationend', listener);
+            };
+            fader.addEventListener('animationend', listener);
+            
+            event.preventDefault();
+            fader.classList.add('fade-in');
+            });
+            }
+            });
+            window.addEventListener('pageshow', function (event) {
+            if (!event.persisted) {
+            return;
+            }
+                    var fader = document.getElementById('fader');
+            fader.classList.remove('fade-in');
+            });
+        </script>
+    </body>
 </html>
-
-
-    
-    
