@@ -1,0 +1,319 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    margin-top: 0px;
+    background-color: #091a20;
+    color: white;
+}
+
+body a {
+    text-decoration: none;
+    color: #ff4040;
+}
+body a:hover {
+    font-weight: bolder;
+    text-decoration: underline;
+    transition: .5s;
+}
+
+/* fader */
+#fader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999999;
+    pointer-events: none;
+    background: white;
+    animation-duration: 300ms;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes fade-out {
+    from {opacity: 1}
+    to {opacity: 0}
+}
+@keyframes fade-in {
+    from {opacity: 0}
+    to {opacity: 1}
+}
+#fader.fade-out {
+    opacity: 0;
+    animation-name: fade-out;
+}
+#fader.fade-in {
+    opacity: 1;
+    animation-name: fade-in;
+} 
+
+#mainTop {
+    height: 500px;
+    width: 100%;
+    background-image: url(images/landingBackground.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#myIntro {
+    height: 100px;
+    width: 100%;
+    border-bottom: 2px solid white;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+#myLogo {
+    height: 75px;
+    width: 100px;
+    padding-top: 20px;
+    background-color: white;
+    color: #091a20;
+    margin-left: 10%;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 45px;
+    float: left;
+} #myLogo:hover {
+    background-color: #ff4040;
+    color: white;
+    cursor: pointer;
+    transition: 1s;
+}
+#someMore {
+    height: 45px;
+    font-size: 35px;
+    float: left;
+    padding-top: 55px;
+    display: none;
+}
+#optionWrapper {
+    float: left;
+    height: 40px;
+    padding-top: 60px;
+    width: 65%;
+    margin-left: 10%;
+}
+.anOption {
+    font-family: 'Lato';
+    font-size: 30px;
+    width: 25%;
+    float: left;
+    text-align: right;
+} .anOption:hover {
+    color: #ff4040;
+    transition: 1s;
+    cursor: pointer;
+}
+
+#displayWrapper {
+    height: 150px;
+    width: 40%;
+    min-width: 400px;
+}
+#myTitle {
+    margin-top: 200px;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Lato';
+    font-weight: bolder;
+}
+#mySubtitle {
+    margin-top: 15px;
+    width: 60%;
+    font-size: 25px;
+    font-family: 'News Cycle';
+    text-align: center;
+    margin-left: 15%;
+}
+
+#mainCenter {
+    width: 80%;
+    margin: auto;
+    max-width: 1000px;
+}
+
+#headerWrapper {
+    height: 75px;
+}
+#myHeader {
+    height: 50px;
+    font-size: 30px;
+    font-family: 'Lato';
+    font-weight: bold;
+    text-align: center;
+}
+#mySubheader {
+    height: 25px;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'News Cycle';
+}
+
+#selectWrapper {
+    height: 200px;
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+}
+.select-row {
+    height: 75px;
+    width: 100%;
+}
+.aSelection {
+    height: 100%;
+    width: 30%;
+    float: left;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Lato';
+    margin-left: 15px;
+}
+.select {
+    height: 50%;
+    width: 95%;
+    margin-top: 20px;
+    border: 2px solid white;
+}
+.select:hover {
+    background-color: #ff4040;
+    transition: .5s;
+    cursor: pointer;
+}
+.active {
+    background-color: #ff4040;
+    font-weight: bolder;
+}
+
+#strategyMatrix {
+    height: 660px;
+}
+.row {
+    height: 200px;
+    margin-bottom: 20px;
+}
+.aStrategy {
+    height: 100%;
+    float: left;
+}
+.aS {
+    width: 32%;
+    margin-left: 1%;
+}
+.bS {
+    width: 65%;
+    margin-left: 1%;
+}
+.anIcon {
+    height: 100%;
+    margin: auto;
+    border: 3px solid white;
+    background-color: #fff4f4;
+    color:  #091a20;
+}
+.anIcon:hover {
+    background-color: #ff4040;
+    cursor: pointer;
+    color: white;
+    transition: .7s;
+}
+
+.alt {
+    background-color: #f5f3ef;
+}
+
+.alt2 {
+    background-color: #fdf5e6
+}
+
+.pageTitle {
+    font-family: 'News Cycle';
+    font-weight: bolder;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.pageTag {
+    font-family: 'Lato';
+    background-color: #ff4040;
+    width: 80%;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+}
+.pageUpdate {
+    text-align: center;
+    font-family: 'News Cycle';
+}
+
+#loadMore {
+    width: 75%;
+    border: 2px solid white;
+    margin: auto;
+    height: 40px;
+    padding-top: 5px;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+
+#myFooter {
+    background-color: white;
+    height: 200px;
+    color: #091a20;
+}
+
+#aboutContainer {
+    height: 200px;
+    width: 30%;
+    margin-left: 50px;
+    padding-top: 20px;
+    float: left;
+}
+.sTitle {
+    font-family: 'Lato';
+    font-weight: bold;
+    font-size: 25px;
+}
+.sOptions {
+    margin-left: 40px;
+    font-family: 'News Cycle';
+}
+
+#contactContainer {
+    float: left;
+    width:  30%;
+    height: 200px;
+    padding-top: 20px;
+}
+
+@media only screen and (max-width: 930px) {
+    #non {
+        display: none;
+    }
+    #optionWrapper {
+        width: 150px;
+    }
+    #someMore {
+        display: block;
+    }
+    #mainCenter {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+

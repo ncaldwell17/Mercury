@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <title>Quiddity Solutions' Mercury</title>
+    <head>
+        <meta name="description" content="Something">
+        
+        <!-- Meta Tags  -->
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- CSS -->
+            <link rel="stylesheet" href="internals.css">
+        <!-- insert font here --> 
+            <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+            <link href='https://fonts.googleapis.com/css?family=PT+Sans&display=swap' rel='stylesheet'>
+            <link href="https://fonts.googleapis.com/css?family=News+Cycle&display=swap" rel="stylesheet">        
+        <!-- Social Media icons --> 
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-- JS -->
+            <script src="internals.js"></script>
+        <!-- Twitter Card --> 
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:site" content="@ncaldwellgatsos">
+        <meta name="twitter:creator" content="@noahcaldwell">
+        <meta name="twitter:title" content="Quiddity Solutions"/> 
+        <meta name="twitter:description" content="Welcome to Quiddity Solutions' Mercury Project Landing Page."/>
+        <meta name="twitter:image:src" content="ncaldwell17.github.io/Mercury/codeBackground.png"/>
+    </head>
+    
+    
+    <body>
+        <svg id="fader">
+        </svg>
+        <script>
+            fadeInPage();
+            
+            //fade-in, fade-out 
+            document.addEventListener('DOMContentLoaded', function() {
+                if (!window.AnimationEvent) { return; }
+                var anchors = document.getElementsByTagName('a');
+    
+            for (var idx=0; idx<anchors.length; idx+=1) {
+                if (anchors[idx].hostname !== window.location.hostname) {
+                continue;
+                }
+            anchors[idx].addEventListener('click', function(event) {
+            var localPath = '/wp-content/uploads/'
+            
+            if (anchors[idx].hostname !== window.location.hostname || anchors[idx].pathname === window.location.pathname || anchors[idx].pathname.indexOf(localPath) !== -1) {
+              //continue;
+            }
+            var fader = document.getElementById('fader'),
+                anchor = event.currentTarget;
+            
+            var listener = function() {
+                window.location = anchor.href;
+                fader.removeEventListener('animationend', listener);
+            };
+            fader.addEventListener('animationend', listener);
+            
+            event.preventDefault();
+            fader.classList.add('fade-in');
+            });
+            }
+            });
+            window.addEventListener('pageshow', function (event) {
+            if (!event.persisted) {
+            return;
+            }
+                    var fader = document.getElementById('fader');
+            fader.classList.remove('fade-in');
+            });
+        </script>
+    </body>
+</html>
